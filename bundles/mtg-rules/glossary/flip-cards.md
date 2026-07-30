@@ -1,0 +1,31 @@
+---
+type: Glossary Term
+title: "Flip Cards"
+description: "Cards with a two-part card frame (one part of which is printed upside down) on a single card."
+tags: [mtg, glossary]
+status: stable
+generated: { by: okf-cr-ingest/composer, at: 2026-07-29T04:35:59Z }
+sources:
+  - id: cr
+    resource: /references/comprehensive-rules.md
+    title: Magic Comprehensive Rules
+  - id: cr-glossary
+    resource: /references/comprehensive-rules.md
+    title: "CR Glossary: Flip Cards"
+---
+
+# Definition
+
+**Flip Cards** — Cards with a two-part card frame (one part of which is printed upside down) on a single card.[^cr-glossary]
+
+# Rules
+
+* Cards with a two-part card frame (one part of which is printed upside down) on a single card.
+* See rule 710, “Flip Cards.”
+
+# Related
+
+* [Glossary](/glossary/)
+
+[^cr]: Magic Comprehensive Rules
+[^cr-glossary]: CR Glossary: Flip Cards
