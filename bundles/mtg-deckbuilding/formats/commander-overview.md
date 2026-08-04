@@ -34,7 +34,7 @@ sources:
 
 # Definition
 
-**Commander** deckbuilding centers on a legendary commander, a **100-card** singleton deck (basics and named exceptions aside), and color identity. This page is strategy-first.
+**Commander** (also called **EDH**) deckbuilding centers on a legendary commander, a **100-card** singleton deck (basics and named exceptions aside), and color identity. This page is strategy-first. Treat EDH and Commander as the same format name.
 
 Authoritative rules (command zone, tax, color identity, commander damage) live in the sibling bundle: [Commander Overview (mtg-rules)](../../mtg-rules/multiplayer/commander-overview.md).
 

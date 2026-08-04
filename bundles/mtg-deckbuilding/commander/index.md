@@ -1,6 +1,7 @@
 # Commander
 
-Commander-focused deckbuilding:
+Commander-focused deckbuilding. **EDH** is a synonym for Commander.
+
 
 * [Deck Vision](deck-vision.md) - Rough sketch of theme, budget, power, and playgroup before the 99.
 * [Commander Selection](commander-selection.md) - Choosing or discovering a commander as the deck's plan.

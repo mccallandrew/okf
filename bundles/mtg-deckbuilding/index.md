@@ -34,7 +34,7 @@ This bundle covers strategy and construction heuristics: game plans, curves, man
 
 # Commander
 
-* [Commander](commander/) - Vision, commander selection, packages, category budgets, synergy, brackets, and local meta.
+* [Commander](commander/) - Vision, commander selection, packages, category budgets, synergy, brackets, and local meta. **EDH** is a synonym for Commander.
 
 # References
 
