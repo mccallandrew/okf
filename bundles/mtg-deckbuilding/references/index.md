@@ -17,6 +17,7 @@ Cited external guides. Strategy concepts point here via `sources`; each Referenc
 * [Anatomy of an Upgrade](edhrec-anatomy-of-upgrade.md) - Disciplined swap types when upgrading a list.
 * [Deckbuilding Checklist (MTGGoldfish)](mtggoldfish-deckbuilding-checklist.md) - Minimum mana, draw, removal, tutors, hate, and finishers.
 * [9 Critical Tips (Draftsim)](draftsim-edh-deck-tips.md) - Brackets, commander reliance, core strategy, and closers.
+* [27 EDH Archetypes Plus Example Decks (Draftsim)](draftsim-edh-archetypes.md) - Popular Commander archetype survey with illustrative lists.
 * [Threat Assessment for New Players (EDHREC)](edhrec-threat-assessment.md) - Multiplayer threat reading via resources and board state.
 * [Misrepresenting Power (EDHREC)](edhrec-misrepresenting-power.md) - Bracket vs vibes and flexible table balancing.
 * [Build Without Cutting Lands First (MTG EDH)](mtgedh-build-without-cutting-lands.md) - Win-plan skeleton before theme cards.

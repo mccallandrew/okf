@@ -12,6 +12,9 @@ sources:
   - id: flores-threat
     resource: /references/flores-threat-answer.md
     title: Threat Theory, Answer Theory
+  - id: draftsim-edh-arch
+    resource: /references/draftsim-edh-archetypes.md
+    title: 27 EDH Archetypes Plus Example Decks (Draftsim)
 ---
 
 # Definition
@@ -35,6 +38,8 @@ sources:
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
 * [Commander Spellbook](/resources/commander-spellbook.md)
 * [Inevitability](/foundations/inevitability.md)
+* [Commander: Combo](/archetypes/commander/combo/)
 
 [^flores-beatdown]: Who's the Beatdown?
 [^flores-threat]: Threat Theory, Answer Theory
+[^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)

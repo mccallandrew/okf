@@ -24,6 +24,9 @@ sources:
   - id: edhrec-threat
     resource: /references/edhrec-threat-assessment.md
     title: Threat Assessment for New Players
+  - id: draftsim-edh-arch
+    resource: /references/draftsim-edh-archetypes.md
+    title: 27 EDH Archetypes Plus Example Decks (Draftsim)
 ---
 
 # Definition
@@ -40,11 +43,13 @@ Authoritative rules (command zone, tax, color identity, commander damage) live i
 * Use [EDHREC](/resources/edhrec.md), [Archidekt](/resources/archidekt.md), and [Commander Spellbook](/resources/commander-spellbook.md) as tools—not as the plan itself.
 * Align [brackets](/commander/power-level-and-brackets.md) with the table using the official five-bracket / Game Changers framework.[^wiz-brackets]
 * Multiplayer “good” decks generate answerable resource advantages; build and pilot with [threat assessment](/references/edhrec-threat-assessment.md) in mind.[^edhrec-threat]
+* Theme labels (aristocrats, wheels, stax, and so on) are covered under [Commander Archetypes](/archetypes/commander/) with illustrative example lists.[^draftsim-edh-arch]
 
 # Related
 
 * [Commander Selection](/commander/commander-selection.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
+* [Commander Archetypes](/archetypes/commander/)
 * [Ramp](/archetypes/ramp.md)
 
 [^cz-template]: Command Zone Deckbuilding Template
@@ -53,3 +58,4 @@ Authoritative rules (command zone, tax, color identity, commander damage) live i
 [^karsten-sources]: How Many Sources (2022)
 [^mtgedh-skeleton]: Build Without Cutting Lands First
 [^edhrec-threat]: Threat Assessment for New Players
+[^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)
