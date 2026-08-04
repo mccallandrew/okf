@@ -15,6 +15,9 @@ sources:
   - id: flores-beatdown
     resource: /references/flores-whos-the-beatdown.md
     title: Who's the Beatdown?
+  - id: draftsim-edh-arch
+    resource: /references/draftsim-edh-archetypes.md
+    title: 27 EDH Archetypes Plus Example Decks (Draftsim)
 ---
 
 # Definition
@@ -40,7 +43,9 @@ Common in Constructed big-mana strategies and most Commander lists.
 * [Land Counts](/mana/land-counts.md)
 * [Category Budgets](/commander/category-budgets.md)
 * [Inevitability](/foundations/inevitability.md)
+* [Commander: Ramp](/archetypes/commander/ramp/)
 
 [^wiz-mana]: The Basics of Mana
 [^karsten-edh]: Commander Curve and Ramp
 [^flores-beatdown]: Who's the Beatdown?
+[^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)

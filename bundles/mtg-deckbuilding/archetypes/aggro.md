@@ -15,6 +15,9 @@ sources:
   - id: flores-beatdown
     resource: /references/flores-whos-the-beatdown.md
     title: Who's the Beatdown?
+  - id: draftsim-edh-arch
+    resource: /references/draftsim-edh-archetypes.md
+    title: 27 EDH Archetypes Plus Example Decks (Draftsim)
 ---
 
 # Definition
@@ -38,7 +41,9 @@ sources:
 * [Mana Curve](/foundations/mana-curve.md)
 * [Who's the Beatdown](/foundations/whos-the-beatdown.md)
 * [Tempo](/archetypes/tempo.md)
+* [Commander: Aggro](/archetypes/commander/aggro/)
 
 [^wiz-mana]: The Basics of Mana
 [^wiz-curve]: How to Build a Mana Curve
 [^flores-beatdown]: Who's the Beatdown?
+[^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)

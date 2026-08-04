@@ -15,6 +15,9 @@ sources:
   - id: wiz-mana
     resource: /references/wizards-basics-of-mana.md
     title: The Basics of Mana
+  - id: draftsim-edh-arch
+    resource: /references/draftsim-edh-archetypes.md
+    title: 27 EDH Archetypes Plus Example Decks (Draftsim)
 ---
 
 # Definition
@@ -38,7 +41,9 @@ sources:
 * [Inevitability](/foundations/inevitability.md)
 * [Card Advantage](/foundations/card-advantage.md)
 * [Sideboarding](/process/sideboarding.md)
+* [Commander: Control](/archetypes/commander/control/)
 
 [^flores-beatdown]: Who's the Beatdown?
 [^flores-threat]: Threat Theory, Answer Theory
 [^wiz-mana]: The Basics of Mana
+[^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)
