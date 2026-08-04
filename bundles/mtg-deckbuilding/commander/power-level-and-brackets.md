@@ -18,6 +18,9 @@ sources:
   - id: draftsim-tips
     resource: /references/draftsim-edh-deck-tips.md
     title: 9 Critical Tips (Draftsim)
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Definition
@@ -36,9 +39,13 @@ Official guidance is the Wizards / Commander Format Panel **brackets beta**: fiv
 * Bracket checklists describe floors; synergy and resilience can still overshoot a claimed band—use pre- and **post-game** Rule 0, and treat consistent domination (e.g. winning well above ~25–30% in a balanced pod) as a signal to play down or move up.[^edhrec-power]
 * Audit combos via [Commander Spellbook](/resources/commander-spellbook.md) so you know what your list can do.
 * When decks mismatch, adjust lists or sit out—rewriting a “broken” mid-power deck often means the table was higher-bracket.
+* Encode a power target in [deck vision](/commander/deck-vision.md) up front; raise or lower power later by swapping [packages](/commander/packages.md) (e.g. splashy finishers → denser combo packages) rather than random staple spam.[^341-build]
 
 # Related
 
+* [Deck Vision](/commander/deck-vision.md)
+* [Packages](/commander/packages.md)
+* [Local Meta](/commander/local-meta.md)
 * [Formats — Commander Overview](/formats/commander-overview.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
 * [Testing and Iteration](/process/testing-and-iteration.md)
@@ -49,3 +56,4 @@ Official guidance is the Wizards / Commander Format Panel **brackets beta**: fiv
 [^edhrec-synergy]: Synergy vs Exploiting
 [^edhrec-power]: Misrepresenting Power
 [^draftsim-tips]: 9 Critical Tips (Draftsim)
+[^341-build]: How to Build a Commander Deck (Three for One Trading)

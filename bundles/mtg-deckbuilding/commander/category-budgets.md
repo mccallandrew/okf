@@ -24,16 +24,18 @@ sources:
   - id: mtgedh-skeleton
     resource: /references/mtgedh-build-without-cutting-lands.md
     title: Build Without Cutting Lands First
-  - id: eight-by-eight
-    resource: /references/eight-by-eight-edh.md
-    title: 8-by-8 EDH
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Definition
 
-**Category budgets** allocate the 99 across functional roles so singleton variance does not leave you without mana, cards, or answers.
+**Category budgets** allocate the 99 across fixed functional roles—lands, ramp, draw, disruption, win conditions—so singleton variance does not leave you without mana, cards, or answers.
 
 Exact numbers vary by power level and strategy; treat the following as starting ranges, then tune.[^cz-template][^edhrec-build][^goldfish-checklist]
+
+This page is the **fixed-category template** view. For themed clusters you name and swap as units (Big Spells, Storm, finishers), see [Packages](/commander/packages.md).[^341-build]
 
 # Starting ranges (common community baselines)
 
@@ -48,19 +50,26 @@ Command Zone–style diagnostic template (tune deliberately):[^cz-template]
 
 Assign each card a primary role; multi-role cards free plan slots.[^edhrec-build]
 
-Alternative framing: an **8-by-8 recipe**—up to ~eight strategies averaging ~eight cards—keeps primary packages (draw, ramp, interaction, wraths) dense before secondary spice.[^eight-by-eight]
+Colored source needs still apply at 99-card scale—see Karsten’s tables and [Pip Distribution](/mana/pip-distribution.md).[^karsten-sources]
 
-Colored source needs still apply at 99-card scale—see Karsten’s tables.[^karsten-sources]
+# Related framings
+
+* **[Packages](/commander/packages.md)** — ~eight themed packages of ~eight cards; evaluate and iterate at package granularity.[^341-build]
+* **[8-by-8 EDH](/references/eight-by-eight-edh.md)** — recipe of primary mandatory strategies vs secondary spice before shopping for pets.
+
+Use category budgets as a health check even when you build primarily in packages: thin ramp/draw/interaction packages still fail the same way thin category counts do.
 
 # Related
 
+* [Packages](/commander/packages.md)
 * [Land Counts](/mana/land-counts.md)
+* [Pip Distribution](/mana/pip-distribution.md)
 * [Cutting Cards](/process/cutting-cards.md)
 * [Archidekt](/resources/archidekt.md)
 * [Ramp](/archetypes/ramp.md)
 * [Command Zone Deckbuilding Template](/references/command-zone-deckbuilding-template.md)
 * [Deckbuilding Checklist (MTGGoldfish)](/references/mtggoldfish-deckbuilding-checklist.md)
-* [8-by-8 EDH](/references/eight-by-eight-edh.md)
+* [How to Build a Commander Deck (Three for One Trading)](/references/threeforone-commander-build-guide.md)
 
 [^cz-template]: Command Zone Deckbuilding Template
 [^edhrec-build]: How to Build a Commander Deck
@@ -68,4 +77,4 @@ Colored source needs still apply at 99-card scale—see Karsten’s tables.[^kar
 [^karsten-sources]: How Many Sources (2022)
 [^goldfish-checklist]: Deckbuilding Checklist (MTGGoldfish)
 [^mtgedh-skeleton]: Build Without Cutting Lands First
-[^eight-by-eight]: 8-by-8 EDH
+[^341-build]: How to Build a Commander Deck (Three for One Trading)

@@ -14,11 +14,11 @@ This bundle covers strategy and construction heuristics: game plans, curves, man
 
 # Process
 
-* [Process](process/) - How to build, goldfish, test, cut, and sideboard.
+* [Process](process/) - How to build (including top-down vs bottom-up), goldfish, test, cut, and sideboard.
 
 # Mana
 
-* [Mana](mana/) - Curves, land counts, colored sources, and fixing.
+* [Mana](mana/) - Curves, land counts, pip distribution, colored sources, and fixing.
 
 # Archetypes
 
@@ -34,7 +34,7 @@ This bundle covers strategy and construction heuristics: game plans, curves, man
 
 # Commander
 
-* [Commander](commander/) - Commander selection, singleton budgets, synergy, and power-level awareness.
+* [Commander](commander/) - Vision, commander selection, packages, category budgets, synergy, brackets, and local meta.
 
 # References
 

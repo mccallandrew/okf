@@ -15,6 +15,9 @@ sources:
   - id: draftsim-tips
     resource: /references/draftsim-edh-deck-tips.md
     title: 9 Critical Tips (Draftsim)
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Definition
@@ -28,6 +31,11 @@ EDHREC’s synergy score measures how *unique* an include is for a commander—n
 # Guidelines
 
 * Focus on one **core strategy**; subthemes should feed that strategy rather than dilute it.[^draftsim-tips]
+* When filling [packages](/commander/packages.md), prefer cards that **interplay with the commander and other packages** over default format staples—“best in vacuum” often loses to “best for this 99.”[^341-build]
+* Re-score roles for your commander: self-mill or impulse-to-exile can count as card advantage when the graveyard (or exile) is the resource; true “draw a card” density matters more for commanders that trigger on draw.[^341-build]
+* Value **modal**, X-cost, and multi-mode spells when the commander recasts or copies them—one card can fill different package jobs across the game.[^341-build]
+* Some amount of raw power is always useful; synergy is what makes a package *shine*.[^341-build]
+* Unusual includes can be correct when the commander changes the math (e.g. high-CMC free spells when you cast from the top of the library).[^341-build]
 * If the deck only works with three specific cards, add redundancy or tutors—or cut the fragile theme.
 * Prefer multi-role cards that advance the plan *and* fill a budget category (ramp, draw, interaction).[^draftsim-tips]
 * [EDHREC](/resources/edhrec.md) high-inclusion cards are often goodstuff; theme pages highlight synergy—use both.
@@ -37,12 +45,15 @@ EDHREC’s synergy score measures how *unique* an include is for a commander—n
 
 # Related
 
+* [Packages](/commander/packages.md)
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
 * [Category Budgets](/commander/category-budgets.md)
 * [Combo](/archetypes/combo.md)
 * [Synergy vs Exploiting](/references/edhrec-synergy-vs-exploiting.md)
+* [How to Build a Commander Deck (Three for One Trading)](/references/threeforone-commander-build-guide.md)
 * [9 Critical Tips (Draftsim)](/references/draftsim-edh-deck-tips.md)
 
 [^edhrec-synergy]: Synergy vs Exploiting
 [^flores-threat]: Threat Theory, Answer Theory
 [^draftsim-tips]: 9 Critical Tips (Draftsim)
+[^341-build]: How to Build a Commander Deck (Three for One Trading)
