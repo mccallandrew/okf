@@ -30,12 +30,13 @@ Curve thinking and source counts are consistency tools: enough cheap plays and e
 # Format notes
 
 * **Limited**: Redundancy comes from commons/uncommons that share a role (combat tricks, 2-drops).
-* **Commander**: Tutors and dense categories replace 4-ofs; see [Category Budgets](/commander/category-budgets.md).
+* **Commander**: Tutors and dense categories replace 4-ofs; see [Category Budgets](/commander/category-budgets.md) and [Packages](/commander/packages.md) (~eight cards per theme as a redundancy floor).
 
 # Related
 
 * [Mana Curve](/foundations/mana-curve.md)
 * [Colored Sources](/mana/colored-sources.md)
+* [Packages](/commander/packages.md)
 * [Mulligans](/foundations/mulligans.md)
 * [Constructed Overview](/formats/constructed-overview.md)
 

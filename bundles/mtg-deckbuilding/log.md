@@ -1,6 +1,7 @@
 # Directory Update Log
 
 ## 2026-08-03
+* **Update**: Ingested Ben Guilfoyle’s Three for One Trading Commander build guide (`references/threeforone-commander-build-guide.md`). Added concepts for [top-down vs bottom-up](/process/top-down-vs-bottom-up.md), [deck vision](/commander/deck-vision.md), [packages](/commander/packages.md), [pip distribution](/mana/pip-distribution.md), and [local meta](/commander/local-meta.md); split package methodology out of category budgets; wired commander selection, synergy, process, mana, formats, Scryfall, and 8-by-8 cross-links.
 * **Update**: Ingested Draftsim’s 27 EDH archetypes under `archetypes/commander/` (folder per archetype, `type: Example Deck` lists, graveyard sub-archetypes), added `references/draftsim-edh-archetypes.md`, and wired macros, commander/format hubs, and root scope for attributed illustrative decks.
 
 ## 2026-07-29

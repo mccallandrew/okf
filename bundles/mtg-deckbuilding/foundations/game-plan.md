@@ -31,10 +31,12 @@ Without a plan, card choices drift toward “powerful in a vacuum” and the lis
 
 * **Constructed**: Plan must survive a known metagame; flex slots and sideboards encode plan B.
 * **Limited**: Plan is often “good creatures on curve plus removal”; splash and bomb lines are secondary plans.
-* **Commander**: The commander frequently *is* the plan; the 99 support casting it and closing games.
+* **Commander**: The commander frequently *is* the plan; the 99 support casting it and closing games. Write a [deck vision](/commander/deck-vision.md) (constraints) before detailing win lines; assemble support as [packages](/commander/packages.md).
 
 # Related
 
+* [Deck Vision](/commander/deck-vision.md)
+* [Top-Down vs Bottom-Up](/process/top-down-vs-bottom-up.md)
 * [Threats and Answers](/foundations/threats-and-answers.md)
 * [Who's the Beatdown](/foundations/whos-the-beatdown.md)
 * [Deckbuilding Process](/process/deckbuilding-process.md)

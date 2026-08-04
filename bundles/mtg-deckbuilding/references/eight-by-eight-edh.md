@@ -7,13 +7,17 @@ tags: [mtg, deckbuilding, commander, process, budgets, source]
 status: stable
 generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:45:00Z }
 author: human:8by8edh
+sources:
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Overview
 
 Standalone **8-by-8** Commander methodology: write a deck **recipe** first (primary mandatory strategies + secondary flavor strategies), then fill each strategy with enough cards for reliable draws.[^eight-by-eight]
 
-Alternative framing to fixed category templates—same goal (functional density), different starting artifact (the recipe).
+Alternative framing to fixed [category budgets](/commander/category-budgets.md)—same goal (functional density), different starting artifact (the recipe). Closely related to Guilfoyle’s [packages](/commander/packages.md) framing (eight themed clusters of ~eight cards, evaluated and swapped as units).[^341-build]
 
 # Key takeaways
 
@@ -26,9 +30,12 @@ Alternative framing to fixed category templates—same goal (functional density)
 
 # Related
 
+* [Packages](/commander/packages.md)
 * [Category Budgets](/commander/category-budgets.md)
 * [Deckbuilding Process](/process/deckbuilding-process.md)
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
+* [How to Build a Commander Deck (Three for One Trading)](/references/threeforone-commander-build-guide.md)
 
 [^eight-by-eight]: 8-by-8 EDH
+[^341-build]: How to Build a Commander Deck (Three for One Trading)

@@ -12,6 +12,9 @@ sources:
   - id: wiz-mana
     resource: /references/wizards-basics-of-mana.md
     title: The Basics of Mana
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Definition
@@ -19,6 +22,8 @@ sources:
 A **colored source** is a card that can produce a given color of mana in time to cast a spell on curve. Frank Karsten’s tables target roughly **90%** on-curve castability given deck size, pip count, and assumed land totals.[^karsten-sources]
 
 This concept summarizes the idea; use the [full reference](/references/karsten-colored-sources.md) for detailed tables.
+
+For relative color weights in Commander (how many Islands vs Mountains vs Swamps before fixing), see [Pip Distribution](/mana/pip-distribution.md).[^341-build]
 
 # Guidelines (60-card intuition)
 
@@ -40,6 +45,7 @@ Approximate sources for ~90% on-curve casts (illustrative; verify against Karste
 
 # Related
 
+* [Pip Distribution](/mana/pip-distribution.md)
 * [Land Counts](/mana/land-counts.md)
 * [Fixing and Utility Lands](/mana/fixing-and-utility-lands.md)
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
@@ -47,3 +53,4 @@ Approximate sources for ~90% on-curve casts (illustrative; verify against Karste
 
 [^karsten-sources]: How Many Sources (2022)
 [^wiz-mana]: The Basics of Mana
+[^341-build]: How to Build a Commander Deck (Three for One Trading)

@@ -21,6 +21,9 @@ sources:
   - id: goldfish-checklist
     resource: /references/mtggoldfish-deckbuilding-checklist.md
     title: Deckbuilding Checklist (MTGGoldfish)
+  - id: 341-build
+    resource: /references/threeforone-commander-build-guide.md
+    title: How to Build a Commander Deck (Three for One Trading)
 ---
 
 # Definition
@@ -36,9 +39,12 @@ sources:
 * Do not default to cutting lands for new toys—pair adds with intentional role cuts; under-manning mana is the classic brew trap.[^edhrec-upgrade][^mtgedh-skeleton][^goldfish-checklist]
 * Resist “pet cards” that win spectacularly in 5% of games but dilute the other 95%.
 * In singleton formats, cut the weakest card in an over-stocked category (e.g. 15th ramp spell).
+* In Commander, ask whether the **[package](/commander/packages.md)** is overfull before debating a single staple—“Is Damnation good?” matters less than “Do I already have eight answers?”[^341-build]
+* When pivoting power level, cut or retire an entire package rather than peppering the 99 with unrelated upgrades.[^341-build]
 
 # Related
 
+* [Packages](/commander/packages.md)
 * [Mana Curve Construction](/mana/mana-curve-construction.md)
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
 * [Category Budgets](/commander/category-budgets.md)
@@ -49,3 +55,4 @@ sources:
 [^flores-threat]: Threat Theory, Answer Theory
 [^mtgedh-skeleton]: Build Without Cutting Lands First
 [^goldfish-checklist]: Deckbuilding Checklist (MTGGoldfish)
+[^341-build]: How to Build a Commander Deck (Three for One Trading)
