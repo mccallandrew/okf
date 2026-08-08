@@ -19,6 +19,7 @@ sources:
 # When to use it
 
 * Find cards that fill a role (“removal that costs {1}{W}”, “card draw in Golgari”).
+* Use **oracle tags** via `otag:<label>` (e.g. `otag:removal`, `otag:ramp`)—see [Effects](/effects/) and [Scryfall Oracle Tags](/references/scryfall-oracle-tags.md).
 * Check format legality and banned/restricted status before locking a list.
 * Compare printings and gatherer-quality rulings links.
 * **Commander discovery**: filter 2,000+ legends by oracle text, types, and color identity to shortlist commanders that match a [deck vision](/commander/deck-vision.md), then evaluate fit by hand.[^341-build]
@@ -26,6 +27,8 @@ sources:
 
 # Related
 
+* [Effects](/effects/)
+* [Scryfall Oracle Tags](/references/scryfall-oracle-tags.md)
 * [Commander Selection](/commander/commander-selection.md)
 * [Deck Vision](/commander/deck-vision.md)
 * [Deckbuilding Process](/process/deckbuilding-process.md)

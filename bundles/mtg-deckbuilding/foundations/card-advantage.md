@@ -38,6 +38,8 @@ Not all “+1 cards” are equal: a drawn land when flooding is weaker than a dr
 * [Inevitability](/foundations/inevitability.md)
 * [Control](/archetypes/control.md)
 * [Midrange](/archetypes/midrange.md)
+* [Card Advantage](/effects/resource/cards/)
+* [Draw](/effects/zone/draw/)
 
 [^flores-beatdown]: Who's the Beatdown?
 [^flores-threat]: Threat Theory, Answer Theory

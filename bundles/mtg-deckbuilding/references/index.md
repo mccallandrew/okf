@@ -23,3 +23,4 @@ Cited external guides. Strategy concepts point here via `sources`; each Referenc
 * [Build Without Cutting Lands First (MTG EDH)](mtgedh-build-without-cutting-lands.md) - Win-plan skeleton before theme cards.
 * [8-by-8 EDH](eight-by-eight-edh.md) - Strategy-first recipe of ~eight packages averaging eight cards.
 * [How to Build a Commander Deck (Three for One Trading)](threeforone-commander-build-guide.md) - Guilfoyle from-scratch guide: vision, packages, synergy, pip mana.
+* [Scryfall Oracle Tags](scryfall-oracle-tags.md) - Tagger oracle-tag catalog, stable IDs, and `otag:` search.

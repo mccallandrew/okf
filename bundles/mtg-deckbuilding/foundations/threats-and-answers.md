@@ -39,6 +39,8 @@ sources:
 * [Who's the Beatdown](/foundations/whos-the-beatdown.md)
 * [Sideboarding](/process/sideboarding.md)
 * [Control](/archetypes/control.md)
+* [Removal](/effects/interaction/removal/)
+* [Counterspell](/effects/spell/counter/)
 * [Threat Assessment for New Players](/references/edhrec-threat-assessment.md)
 
 [^flores-threat]: Threat Theory, Answer Theory

@@ -1,0 +1,367 @@
+# OKF effects taxonomy: filesystem paths are mid/leaf.
+# Oracle tags map here; Scryfall parents stay Related-only.
+#
+# Routing policies (P0):
+# - gains vs gives: same mid/leaf; route by *what is granted* (combat keywords →
+#   combat/*, protection → interaction/protection, castability → spell/*,
+#   counters/type leftovers → permanent/modify). Voice is Scryfall search fidelity,
+#   not a taxonomy fork. permanent/modify is residual for grants, not the default.
+# - Exile triad: banish = hostile hold (interaction/removal); haven/purgatory =
+#   friendly delayed hold (zone/exile); blink/flicker = short ETB loop
+#   (permanent/blink); imprint = exile-as-reference (zone/exile).
+# - Tuck ≠ bounce: library destination is zone/battlefield-to-library; hand
+#   return stays zone/battlefield-to-hand. removal-tuck / counterspell-tuck keep
+#   their role leaf with tuck Related.
+# - Cost-bypass ≠ cost-reduction: ignore/set/static free costs → spell/cost-bypass;
+#   cheaper-to-cast → spell/cost-reduction. Put-into-play without casting →
+#   zone/cheat-into-play (not cost-bypass), even when Scryfall parents sneak under
+#   cost ignorer.
+
+taxonomy:
+  resource:
+    - mana
+    - cards
+    - life
+    - board-presence
+  zone:
+    - draw
+    - search
+    - graveyard-to-hand
+    - graveyard-to-battlefield
+    - exile
+    - hand
+    - library
+    - battlefield-to-hand
+    - battlefield-to-library
+    - cheat-into-play
+  permanent:
+    - create
+    - destroy
+    - sacrifice
+    - blink
+    - transform
+    - modify
+    - control
+    - tap
+  spell:
+    - cast
+    - cast-from-nonhand
+    - copy
+    - recast
+    - cost-reduction
+    - cost-bypass
+    - counter
+  interaction:
+    - removal
+    - protection
+    - hate
+    - tax
+    - pillowfort
+  combat:
+    - evasion
+    - combat-manipulation
+    - attacking
+    - damage
+  synergy:
+    - activated
+    - triggered
+    - matters
+    - modal
+  game:
+    - win-condition
+    - turn-structure
+    - poison
+  uncategorized: []
+
+category_descriptions:
+  resource: "Effects that change available resources—mana, cards, life, or board presence."
+  resource/mana: "Mana acceleration, rocks, dorks, and sinks."
+  resource/cards: "Card-flow and card-advantage patterns that are not pure draw."
+  resource/life: "Gaining or paying life as a resource."
+  resource/board-presence: "Team-wide presence and go-wide payoffs (non-token-create)."
+  zone: "Effects defined by moving or manipulating cards across zones."
+  zone/draw: "Drawing cards from the library."
+  zone/search: "Library search (tutors) and wishes. Typal tutor filters stay Related, not separate leaves."
+  zone/graveyard-to-hand: "Returning cards from graveyard to hand (not cast-from-graveyard permission)."
+  zone/graveyard-to-battlefield: "Reanimating or cheating permanents from graveyard to battlefield."
+  zone/exile: "Exile-centric movement and payoffs—friendly delayed holds (haven/purgatory), imprint/reference exile, and unexile. Hostile o-ring holds are interaction/removal (banish); short flicker loops are permanent/blink."
+  zone/hand: "Discard, hand disruption, and discard outlets."
+  zone/library: "Mill, scry, surveil, peek, hand→library outlets (tuck-outlet), and other library manipulation. Battlefield→library removal/utility is zone/battlefield-to-library."
+  zone/battlefield-to-hand: "Bounce and similar returns to hand. Not tuck (library)."
+  zone/battlefield-to-library: "Tuck—put a spell or permanent into its owner's library. Distinct from bounce."
+  zone/cheat-into-play: "Put permanents onto the battlefield without casting (sneak, Show and Tell, and similar). Not cost-reduction and not cast-from-nonhand."
+  permanent: "Effects that create, remove, or change permanents on the battlefield."
+  permanent/create: "Creating tokens or new permanents."
+  permanent/destroy: "Destroy-mode answers (when not filed under interaction/removal)."
+  permanent/sacrifice: "Sacrifice outlets and sacrifice payoffs."
+  permanent/blink: "Short exile-and-return (flicker) for ETB reuse. Not haven-style long storage and not banish."
+  permanent/transform: "Transform and face-up/face-down style effects."
+  permanent/modify: "Counters, type/text/color changes, animate, and residual granted abilities/stats. Prefer routing keyword grants by role (combat, protection, spell) before landing here; gains vs gives share a leaf."
+  permanent/control: "Changing or stealing control of permanents."
+  permanent/tap: "Tapping, untapping, freeze, and lockdown."
+  spell: "Effects about casting, copying, recasting, costing, or countering spells."
+  spell/cast: "Casting spells as part of resolution or from unusual timing."
+  spell/cast-from-nonhand: "Permission to cast or play cards from exile, graveyard, library, or other nonhand zones. Distinct from zone returns (recursion) and from flashback-style recast keywords when the deckbuilding job is castability."
+  spell/copy: "Copying spells or abilities."
+  spell/recast: "Casting again via zone-recast keywords (flashback-like)."
+  spell/cost-reduction: "Reducing spell costs (cheaper than MV, discounts)."
+  spell/cost-bypass: "Bypassing mana costs—free spells, static alternate costs that ignore MV. Put-into-play without casting is zone/cheat-into-play."
+  spell/counter: "Counterspells and stack denial."
+  interaction: "Answers, hate, taxes, and protective interaction."
+  interaction/removal: "Getting permanents off the board (including banish/o-ring holds and removal-tuck)."
+  interaction/protection: "Protecting permanents and preventing damage—including gains/gives of indestructible, ward, hexproof, and similar."
+  interaction/hate: "Hate pieces that punish strategies, types, or zones."
+  interaction/tax: "Cost-increasing and stax-adjacent taxes."
+  interaction/pillowfort: "Making you hard or expensive to attack."
+  combat: "Combat-relevant evasion, manipulation, and damage."
+  combat/evasion: "Harder-to-block creatures and granted evasion (gains/gives flying, unblockable, etc.)."
+  combat/combat-manipulation: "Altering combat steps, blockers, or combat rules."
+  combat/attacking: "Attack triggers and attacking-matters payoffs."
+  combat/damage: "Burn and damage-based effects."
+  synergy: Ability shapes and matters-style payoffs.
+  synergy/activated: Activated abilities as a class.
+  synergy/triggered: Triggered abilities and enter/fall-style triggers.
+  synergy/matters: Cards that care about types, stats, counters, or zones. synergy-* otags map here by convention; do not mirror every keyword/type as its own taxonomy leaf.
+  synergy/modal: Modal spells and choices.
+  game: "Win conditions and turn-structure effects."
+  game/win-condition: "Alternate win and loss conditions."
+  game/turn-structure: "Extra turns, skipped phases/turns, and other phase manipulation."
+  game/poison: "Poison counters and related mechanics."
+  uncategorized: "Tags that could not be mapped (should be empty after generation)."
+
+# Label -> mid/leaf. Cover all generator seeds and common pulled ancestors.
+seed_map:
+  # resource/mana
+  ramp: resource/mana
+  mana rock: resource/mana
+  mana dork: resource/mana
+  mana sink: resource/mana
+  mana producer: resource/mana
+  adds multiple mana: resource/mana
+  affinity: resource/mana
+  convoke: resource/mana
+  landfall: resource/mana
+
+  # resource/cards
+  card advantage: resource/cards
+  cantrip: resource/cards
+  loot: resource/cards
+  rummage: resource/cards
+  impulse: resource/cards
+  wheel: resource/cards
+  impulsive draw: resource/cards
+  drawback: resource/cards
+
+  # resource/life
+  lifegain: resource/life
+  life payment: resource/life
+  alternate-cost-gain-life: resource/life
+  fog: resource/life
+
+  # resource/board-presence
+  anthem: resource/board-presence
+  power boost to all: resource/board-presence
+
+  # zone/draw
+  draw: zone/draw
+  pure draw: zone/draw
+  burst draw: zone/draw
+  draw engine: zone/draw
+
+  # zone/search
+  tutor: zone/search
+  wish: zone/search
+  birthing pod: zone/search
+
+  # zone/graveyard-to-hand
+  recursion: zone/graveyard-to-hand
+  regrowth: zone/graveyard-to-hand
+  graveyard fuel: zone/graveyard-to-hand
+
+  # zone/graveyard-to-battlefield
+  reanimate: zone/graveyard-to-battlefield
+  animate dead-like: zone/graveyard-to-battlefield
+
+  # zone/exile
+  haven: zone/exile
+  purgatory: zone/exile
+  imprint: zone/exile
+
+  # zone/hand
+  discard: zone/hand
+  hand disruption: zone/hand
+  discard outlet: zone/hand
+
+  # zone/library
+  mill: zone/library
+  scry: zone/library
+  surveil: zone/library
+  peek: zone/library
+  library manipulation: zone/library
+  tuck-outlet: zone/library
+
+  # zone/battlefield-to-hand
+  bounce: zone/battlefield-to-hand
+
+  # zone/battlefield-to-library
+  tuck: zone/battlefield-to-library
+  tuck-self: zone/battlefield-to-library
+
+  # zone/cheat-into-play
+  sneak: zone/cheat-into-play
+  sneak from library: zone/cheat-into-play
+  sneak from command zone: zone/cheat-into-play
+  show and tell: zone/cheat-into-play
+  gives sneak: zone/cheat-into-play
+
+  # permanent
+  sacrifice outlet: permanent/sacrifice
+  sacrifice matters: permanent/sacrifice
+  your sacrifice matters: permanent/sacrifice
+  opponent sacrifice matters: permanent/sacrifice
+  flicker: permanent/blink
+  type change: permanent/modify
+  any zone type change: permanent/modify
+  artifactify: permanent/modify
+  auraify: permanent/modify
+  becomes changeling: permanent/modify
+  color change: permanent/modify
+  any zone color change: permanent/modify
+  animate: permanent/modify
+  armoring: permanent/modify
+  auto equip: permanent/modify
+  quick equip: permanent/modify
+  quick attach: permanent/modify
+  gives pp counters: permanent/modify
+  gives haste: permanent/modify
+  counters matter: permanent/modify
+  keyword counter: permanent/modify
+  theft: permanent/control
+  control changing effects: permanent/control
+  tapper: permanent/tap
+  untapper: permanent/tap
+  freeze: permanent/tap
+  lockdown: permanent/tap
+  tap outlet: permanent/tap
+
+  # spell
+  cast on resolution: spell/cast
+  addendum: spell/cast
+  castable from nonhand: spell/cast-from-nonhand
+  castable from exile: spell/cast-from-nonhand
+  castable from graveyard: spell/cast-from-nonhand
+  castable from library: spell/cast-from-nonhand
+  gives castable from nonhand: spell/cast-from-nonhand
+  gives castable from exile: spell/cast-from-nonhand
+  gives castable from graveyard: spell/cast-from-nonhand
+  gives castable from library: spell/cast-from-nonhand
+  copy: spell/copy
+  auto buyback: spell/recast
+  cost reducer: spell/cost-reduction
+  cheaper than mv: spell/cost-reduction
+  alternate-equip-cost: spell/cost-reduction
+  cost ignorer: spell/cost-bypass
+  counterspell: spell/counter
+
+  # interaction
+  removal: interaction/removal
+  sweeper: interaction/removal
+  spot removal: interaction/removal
+  multi removal: interaction/removal
+  protection: interaction/protection
+  ward: interaction/protection
+  damage prevention: interaction/protection
+  aikido: interaction/protection
+  hate: interaction/hate
+  balance: interaction/hate
+  blood moon effect: interaction/hate
+  tax: interaction/tax
+  pillowfort: interaction/pillowfort
+
+  # combat
+  evasion: combat/evasion
+  gives evasion: combat/evasion
+  combat manipulation: combat/combat-manipulation
+  block additional: combat/combat-manipulation
+  block unlimited: combat/combat-manipulation
+  block when tapped: combat/combat-manipulation
+  block without creature: combat/combat-manipulation
+  attacking matters: combat/attacking
+  attacking matters-any: combat/attacking
+  attacking matters-self: combat/attacking
+  attack trigger: combat/attacking
+  saboteur: combat/attacking
+  battalion: combat/attacking
+  battle cry: combat/attacking
+  burn: combat/damage
+
+  # synergy
+  activated ability: synergy/activated
+  any player ability: synergy/activated
+  triggered ability: synergy/triggered
+  thingfall: synergy/triggered
+  behold: synergy/matters
+  artifact matters: synergy/matters
+  lands matter: synergy/matters
+  power matters: synergy/matters
+  toughness matters: synergy/matters
+  cards in graveyard matter: synergy/matters
+  age matters: synergy/matters
+  amount spent matters: synergy/matters
+  mana spent matters: synergy/matters
+  armament ability: synergy/matters
+  synergy-equipment: synergy/matters
+  synergy-artifact: synergy/matters
+  synergy-color-share: synergy/matters
+  modal: synergy/modal
+
+  # game
+  alternate win condition: game/win-condition
+  alternate loss condition: game/win-condition
+  extra turn: game/turn-structure
+  poison mechanics: game/poison
+
+# Specific child labels that should not inherit their Scryfall ancestor category.
+overrides:
+  # Draw lives under zone/draw even when Scryfall parents point at card advantage
+  draw: zone/draw
+  pure draw: zone/draw
+  burst draw: zone/draw
+  draw engine: zone/draw
+  # Removal-destroy can stay under interaction/removal (inherits removal)
+  removal-destroy: interaction/removal
+  # Wheel is card-resource pattern
+  wheel: resource/cards
+  wheel one-sided: resource/cards
+  wheel symmetrical: resource/cards
+  # Impulse draw under resource/cards
+  impulse: resource/cards
+  # Battle cry is an attack trigger, not a standing anthem
+  battle cry: combat/attacking
+  # Sneak is under cost ignorer in Tagger; put-into-play is not cost-bypass
+  sneak: zone/cheat-into-play
+  sneak from library: zone/cheat-into-play
+  sneak from command zone: zone/cheat-into-play
+  sneak-land: resource/mana
+  # Cast-from-GY permission is not recursion (return to hand)
+  gives castable from graveyard: spell/cast-from-nonhand
+  castable from graveyard: spell/cast-from-nonhand
+  # Role-primary tuck hybrids keep their answer leaf
+  removal-tuck: interaction/removal
+  counterspell-tuck: spell/counter
+  # Keyword-shaped cast grants: prefer recast/cast over generic cast-from-nonhand
+  gives flashback: spell/recast
+  gives jump-start: spell/recast
+  gives escape: spell/recast
+  gives harmonize: spell/recast
+  gives retrace: spell/recast
+  gives mayhem: spell/recast
+  gives rebound: spell/recast
+  gives cascade: spell/cast
+  gives adventure: spell/cast
+  gives foretell: spell/cast
+  gives plot: spell/cast
+  gives warp: spell/cast
+  gives suspend: spell/cast
+  gives madness: spell/cast
+  gives ripple: spell/cast

@@ -1,0 +1,10 @@
+{
+  "source": "/Volumes/Source/probable-rotary-phone.test-graph-base/pkg/scryfall/oracle_tags_gen.go",
+  "source_sha256_16": "861bd47753e1efd1",
+  "generated_at": "2026-08-08T03:28:09Z",
+  "included": 1285,
+  "excluded": 3236,
+  "missing_seeds": [],
+  "uncategorized": [],
+  "taxonomy": "/Volumes/Source/okf/tools/mtg-deckbuilding/effects_taxonomy.yaml"
+}

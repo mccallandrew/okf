@@ -1,0 +1,31 @@
+---
+type: Oracle Tag
+title: Gains Infect
+description: "Scryfall oracle tag: gains infect."
+tags: [mtg, deckbuilding, effects, gains-infect, oracle-tag]
+status: draft
+generated: { by: okf-deckbuilding-agent/composer, at: 2026-08-08T03:28:09Z }
+scryfall_tag_id: "65755440-3514-4e8a-822f-e047c759f5bc"
+category: game/poison
+sources:
+  - id: scryfall-otags
+    resource: /references/scryfall-oracle-tags.md
+    title: Scryfall Oracle Tags
+  - id: scryfall
+    resource: /resources/scryfall.md
+    title: Scryfall
+---
+
+# Definition
+
+**Gains Infect** is a Scryfall oracle tag used to classify related card effects.
+
+# Deckbuilding notes
+
+* Search: `otag:gains infect` on [Scryfall](/resources/scryfall.md).
+* Category: `game/poison`.
+
+# Related
+
+* Category: [Poison](/effects/game/poison/)
+* Scryfall parent: [Poison Mechanics](/effects/game/poison/poison-mechanics.md)

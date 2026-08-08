@@ -1,0 +1,155 @@
+---
+type: Oracle Tag
+title: Hate
+description: "Cards that hate on things — colors, card types, zones, etc."
+tags: [mtg, deckbuilding, effects, hate, oracle-tag]
+status: draft
+generated: { by: okf-deckbuilding-agent/composer, at: 2026-08-08T03:28:09Z }
+scryfall_tag_id: "249eaa21-acc1-45de-bb29-757cd60dffb8"
+category: interaction/hate
+sources:
+  - id: scryfall-otags
+    resource: /references/scryfall-oracle-tags.md
+    title: Scryfall Oracle Tags
+  - id: scryfall
+    resource: /resources/scryfall.md
+    title: Scryfall
+---
+
+# Definition
+
+Cards that hate on things — colors, card types, zones, etc.
+
+# Deckbuilding notes
+
+* Search: `otag:hate` on [Scryfall](/resources/scryfall.md).
+* Category: `interaction/hate`.
+* Hate pieces that punish strategies, types, or zones.
+
+# Related
+
+* Category: [Hate](/effects/interaction/hate/)
+* [Draw Hate](/effects/interaction/hate/draw-hate.md)
+* [Hand Size Hate](/effects/interaction/hate/hand-size-hate.md)
+* [Hate-Activation](/effects/interaction/hate/hate-activation.md)
+* [Hate-Adventure](/effects/interaction/hate/hate-adventure.md)
+* [Hate-Arcane](/effects/interaction/hate/hate-arcane.md)
+* [Hate-Artifact](/effects/interaction/hate/hate-artifact.md)
+* [Hate-Artifact-Creature](/effects/interaction/hate/hate-artifact-creature.md)
+* [Hate-Artifact-Land](/effects/interaction/hate/hate-artifact-land.md)
+* [Hate-Attacker](/effects/interaction/hate/hate-attacker.md)
+* [Hate-Attraction](/effects/interaction/hate/hate-attraction.md)
+* [Hate-Aura](/effects/interaction/hate/hate-aura.md)
+* [Hate-Backup](/effects/interaction/hate/hate-backup.md)
+* [Hate-Banding](/effects/interaction/hate/hate-banding.md)
+* [Hate-Battle](/effects/interaction/hate/hate-battle.md)
+* [Hate-Blocker](/effects/interaction/hate/hate-blocker.md)
+* [Hate-Blood](/effects/interaction/hate/hate-blood.md)
+* [Hate-Clue](/effects/interaction/hate/hate-clue.md)
+* [Hate-Color](/effects/interaction/hate/hate-color.md)
+* [Hate-Color-Non-Share](/effects/interaction/hate/hate-color-non-share.md)
+* [Hate-Color-Share](/effects/interaction/hate/hate-color-share.md)
+* [Hate-Commander](/effects/interaction/hate/hate-commander.md)
+* [Hate-Conspiracy](/effects/interaction/hate/hate-conspiracy.md)
+* [Hate-Contraption](/effects/interaction/hate/hate-contraption.md)
+* [Hate-Counters](/effects/interaction/hate/hate-counters.md)
+* [Hate-Counterspell](/effects/interaction/hate/hate-counterspell.md)
+* [Hate-Creatureland](/effects/interaction/hate/hate-creatureland.md)
+* [Hate-Curse](/effects/interaction/hate/hate-curse.md)
+* [Hate-Cycling](/effects/interaction/hate/hate-cycling.md)
+* [Hate-Damaged](/effects/interaction/hate/hate-damaged.md)
+* [Hate-Deathtouch](/effects/interaction/hate/hate-deathtouch.md)
+* [Hate-Defender](/effects/interaction/hate/hate-defender.md)
+* [Hate-Desert](/effects/interaction/hate/hate-desert.md)
+* [Hate-Dice](/effects/interaction/hate/hate-dice.md)
+* [Hate-Discard](/effects/interaction/hate/hate-discard.md)
+* [Hate-Disturb](/effects/interaction/hate/hate-disturb.md)
+* [Hate-Double-Strike](/effects/interaction/hate/hate-double-strike.md)
+* [Hate-Enchantment](/effects/interaction/hate/hate-enchantment.md)
+* [Hate-Enchantment-Creature](/effects/interaction/hate/hate-enchantment-creature.md)
+* [Hate-Equipment](/effects/interaction/hate/hate-equipment.md)
+* [Hate-Exile-Cast](/effects/interaction/hate/hate-exile-cast.md)
+* [Hate-Face-Down](/effects/interaction/hate/hate-face-down.md)
+* [Hate-Fear](/effects/interaction/hate/hate-fear.md)
+* [Hate-First-Strike](/effects/interaction/hate/hate-first-strike.md)
+* [Hate-Flanking](/effects/interaction/hate/hate-flanking.md)
+* [Hate-Flash](/effects/interaction/hate/hate-flash.md)
+* [Hate-Flashback](/effects/interaction/hate/hate-flashback.md)
+* [Hate-Flying](/effects/interaction/hate/hate-flying.md)
+* [Hate-Food](/effects/interaction/hate/hate-food.md)
+* [Hate-Forest](/effects/interaction/hate/hate-forest.md)
+* [Hate-Free-Spell](/effects/interaction/hate/hate-free-spell.md)
+* [Hate-Goad](/effects/interaction/hate/hate-goad.md)
+* [Hate-Graveyard](/effects/interaction/hate/hate-graveyard.md)
+* [Hate-Graveyard-Cast](/effects/interaction/hate/hate-graveyard-cast.md)
+* [Hate-Haste](/effects/interaction/hate/hate-haste.md)
+* [Hate-High-Mv](/effects/interaction/hate/hate-high-mv.md)
+* [Hate-High-Pt](/effects/interaction/hate/hate-high-pt.md)
+* [Hate-Horsemanship](/effects/interaction/hate/hate-horsemanship.md)
+* [Hate-Hybrid](/effects/interaction/hate/hate-hybrid.md)
+* [Hate-Infect](/effects/interaction/hate/hate-infect.md)
+* [Hate-Instant](/effects/interaction/hate/hate-instant.md)
+* [Hate-Island](/effects/interaction/hate/hate-island.md)
+* [Hate-Kicker](/effects/interaction/hate/hate-kicker.md)
+* [Hate-Legendary](/effects/interaction/hate/hate-legendary.md)
+* [Hate-Library-Cast](/effects/interaction/hate/hate-library-cast.md)
+* [Hate-Life-Payment](/effects/interaction/hate/hate-life-payment.md)
+* [Hate-Lifegain](/effects/interaction/hate/hate-lifegain.md)
+* [Hate-Lifelink](/effects/interaction/hate/hate-lifelink.md)
+* [Hate-Low-Power](/effects/interaction/hate/hate-low-power.md)
+* [Hate-Low-Toughness](/effects/interaction/hate/hate-low-toughness.md)
+* [Hate-Menace](/effects/interaction/hate/hate-menace.md)
+* [Hate-Mm-Counter](/effects/interaction/hate/hate-mm-counter.md)
+* [Hate-Morph](/effects/interaction/hate/hate-morph.md)
+* [Hate-Mountain](/effects/interaction/hate/hate-mountain.md)
+* [Hate-Nonartifact](/effects/interaction/hate/hate-nonartifact.md)
+* [Hate-Nonbasic-Land](/effects/interaction/hate/hate-nonbasic-land.md)
+* [Hate-Noncreature](/effects/interaction/hate/hate-noncreature.md)
+* [Hate-Nonhand-Cast](/effects/interaction/hate/hate-nonhand-cast.md)
+* [Hate-Off-Turn-Cast](/effects/interaction/hate/hate-off-turn-cast.md)
+* [Hate-Plains](/effects/interaction/hate/hate-plains.md)
+* [Hate-Planeswalker](/effects/interaction/hate/hate-planeswalker.md)
+* [Hate-Planeswalker-Bolas](/effects/interaction/hate/hate-planeswalker-bolas.md)
+* [Hate-Planeswalker-Chandra](/effects/interaction/hate/hate-planeswalker-chandra.md)
+* [Hate-Planeswalker-Jace](/effects/interaction/hate/hate-planeswalker-jace.md)
+* [Hate-Plot](/effects/interaction/hate/hate-plot.md)
+* [Hate-Protection](/effects/interaction/hate/hate-protection.md)
+* [Hate-Ramp](/effects/interaction/hate/hate-ramp.md)
+* [Hate-Reach](/effects/interaction/hate/hate-reach.md)
+* [Hate-Regenerate](/effects/interaction/hate/hate-regenerate.md)
+* [Hate-Removal-Sacrifice](/effects/interaction/hate/hate-removal-sacrifice.md)
+* [Hate-Room](/effects/interaction/hate/hate-room.md)
+* [Hate-Saga](/effects/interaction/hate/hate-saga.md)
+* [Hate-Scry](/effects/interaction/hate/hate-scry.md)
+* [Hate-Set-Mechanic](/effects/interaction/hate/hate-set-mechanic.md)
+* [Hate-Shadow](/effects/interaction/hate/hate-shadow.md)
+* [Hate-Shuffle](/effects/interaction/hate/hate-shuffle.md)
+* [Hate-Snow](/effects/interaction/hate/hate-snow.md)
+* [Hate-Sorcery](/effects/interaction/hate/hate-sorcery.md)
+* [Hate-Spacecraft](/effects/interaction/hate/hate-spacecraft.md)
+* [Hate-Speed](/effects/interaction/hate/hate-speed.md)
+* [Hate-Splice](/effects/interaction/hate/hate-splice.md)
+* [Hate-Storm](/effects/interaction/hate/hate-storm.md)
+* [Hate-Surveil](/effects/interaction/hate/hate-surveil.md)
+* [Hate-Suspect](/effects/interaction/hate/hate-suspect.md)
+* [Hate-Suspend](/effects/interaction/hate/hate-suspend.md)
+* [Hate-Swamp](/effects/interaction/hate/hate-swamp.md)
+* [Hate-Tapped](/effects/interaction/hate/hate-tapped.md)
+* [Hate-Target](/effects/interaction/hate/hate-target.md)
+* [Hate-Theft](/effects/interaction/hate/hate-theft.md)
+* [Hate-Token](/effects/interaction/hate/hate-token.md)
+* [Hate-Town](/effects/interaction/hate/hate-town.md)
+* [Hate-Toxic](/effects/interaction/hate/hate-toxic.md)
+* [Hate-Transform](/effects/interaction/hate/hate-transform.md)
+* [Hate-Trap](/effects/interaction/hate/hate-trap.md)
+* [Hate-Treasure](/effects/interaction/hate/hate-treasure.md)
+* [Hate-Tutor](/effects/interaction/hate/hate-tutor.md)
+* [Hate-Untapped](/effects/interaction/hate/hate-untapped.md)
+* [Hate-Vehicle](/effects/interaction/hate/hate-vehicle.md)
+* [Hate-Vigilance](/effects/interaction/hate/hate-vigilance.md)
+* [Hate-Ward](/effects/interaction/hate/hate-ward.md)
+* [Hate-Warp](/effects/interaction/hate/hate-warp.md)
+* [Hate-Wide](/effects/interaction/hate/hate-wide.md)
+* [Hatebear](/effects/interaction/hate/hatebear.md)
+* [Hatebird](/effects/interaction/hate/hatebird.md)
+* [Prevent Extra Turns](/effects/interaction/hate/prevent-extra-turns.md)

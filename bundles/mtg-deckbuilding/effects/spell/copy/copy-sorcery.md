@@ -1,0 +1,31 @@
+---
+type: Oracle Tag
+title: Copy-Sorcery
+description: "Scryfall oracle tag: copy-sorcery."
+tags: [mtg, deckbuilding, effects, copy-sorcery, oracle-tag]
+status: draft
+generated: { by: okf-deckbuilding-agent/composer, at: 2026-08-08T03:28:09Z }
+scryfall_tag_id: "300f5a3d-01c5-43a7-b1f4-847afe5bf961"
+category: spell/copy
+sources:
+  - id: scryfall-otags
+    resource: /references/scryfall-oracle-tags.md
+    title: Scryfall Oracle Tags
+  - id: scryfall
+    resource: /resources/scryfall.md
+    title: Scryfall
+---
+
+# Definition
+
+**Copy-Sorcery** is a Scryfall oracle tag used to classify related card effects.
+
+# Deckbuilding notes
+
+* Search: `otag:copy-sorcery` on [Scryfall](/resources/scryfall.md).
+* Category: `spell/copy`.
+
+# Related
+
+* Category: [Copy](/effects/spell/copy/)
+* Scryfall parent: [Copy](/effects/spell/copy/copy.md)

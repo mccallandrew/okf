@@ -35,6 +35,9 @@ sources:
 * [Mana Curve](/foundations/mana-curve.md)
 * [Land Counts](/mana/land-counts.md)
 * [Goldfishing](/process/goldfishing.md)
+* [Ramp](/effects/resource/mana/)
+* [Mana Rock](/effects/resource/mana/mana-rock.md)
+* [Mana Dork](/effects/resource/mana/mana-dork.md)
 
 [^wiz-curve]: How to Build a Mana Curve
 [^wiz-mana]: The Basics of Mana

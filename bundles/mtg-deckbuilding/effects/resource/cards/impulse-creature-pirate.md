@@ -1,0 +1,31 @@
+---
+type: Oracle Tag
+title: Impulse-Creature-Pirate
+description: "Scryfall oracle tag: impulse-creature-pirate."
+tags: [mtg, deckbuilding, effects, impulse-creature-pirate, oracle-tag]
+status: draft
+generated: { by: okf-deckbuilding-agent/composer, at: 2026-08-08T03:28:09Z }
+scryfall_tag_id: "f8da62c5-9916-4d82-9afd-fa0dcae5d648"
+category: resource/cards
+sources:
+  - id: scryfall-otags
+    resource: /references/scryfall-oracle-tags.md
+    title: Scryfall Oracle Tags
+  - id: scryfall
+    resource: /resources/scryfall.md
+    title: Scryfall
+---
+
+# Definition
+
+**Impulse-Creature-Pirate** is a Scryfall oracle tag used to classify related card effects.
+
+# Deckbuilding notes
+
+* Search: `otag:impulse-creature-pirate` on [Scryfall](/resources/scryfall.md).
+* Category: `resource/cards`.
+
+# Related
+
+* Category: [Cards](/effects/resource/cards/)
+* Scryfall parent: [Impulse-Creature](/effects/resource/cards/impulse-creature.md)
