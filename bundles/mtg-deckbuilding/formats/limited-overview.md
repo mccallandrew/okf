@@ -25,7 +25,7 @@ Rules high-level for Draft/Sealed also appear in the sibling [mtg-rules variants
 * Prioritize a smooth [creature curve](/limited/limited-curves.md) and enough removal.[^wiz-curve]
 * Choose colors based on depth and signals ([Draft](/limited/draft-signals.md)) or pool strength ([Sealed](/limited/sealed-building.md)).
 * Fix mana carefully when splashing.[^wiz-mana]
-* Use set prep from [Limited Resources](/resources/limited-resources.md) and data from [17Lands](/resources/seventeen-lands.md).
+* Use set prep from [Limited Resources](/builder-resources/limited-resources.md) and data from [17Lands](/builder-resources/seventeen-lands.md).
 
 # Related
 

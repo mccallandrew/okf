@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Draw, then shuffle cards into your library or put them on the bottom of it. Cont
 
 # Deckbuilding notes
 
-* Search: `otag:loot to library` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:loot to library` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

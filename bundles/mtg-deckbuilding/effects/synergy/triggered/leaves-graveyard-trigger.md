@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that have triggers whenever a card (or cards) leave your graveyard
 
 # Deckbuilding notes
 
-* Search: `otag:leaves graveyard trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:leaves graveyard trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

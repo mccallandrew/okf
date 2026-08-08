@@ -37,7 +37,7 @@ Official guidance is the Wizards / Commander Format Panel **brackets beta**: fiv
 * **Brackets 4–5**: unrestricted (aside from the ban list); bracket 5 adds a competitive, metagame-driven mindset.
 * Theme coherence is not the same as power—**exploitation** (artificially extracting outsized value) often explains bracket friction better than “how synergistic” the deck feels.[^edhrec-synergy]
 * Bracket checklists describe floors; synergy and resilience can still overshoot a claimed band—use pre- and **post-game** Rule 0, and treat consistent domination (e.g. winning well above ~25–30% in a balanced pod) as a signal to play down or move up.[^edhrec-power]
-* Audit combos via [Commander Spellbook](/resources/commander-spellbook.md) so you know what your list can do.
+* Audit combos via [Commander Spellbook](/builder-resources/commander-spellbook.md) so you know what your list can do.
 * When decks mismatch, adjust lists or sit out—rewriting a “broken” mid-power deck often means the table was higher-bracket.
 * Encode a power target in [deck vision](/commander/deck-vision.md) up front; raise or lower power later by swapping [packages](/commander/packages.md) (e.g. splashy finishers → denser combo packages) rather than random staple spam.[^341-build]
 

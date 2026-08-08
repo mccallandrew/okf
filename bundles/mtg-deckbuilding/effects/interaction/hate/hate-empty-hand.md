@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that punish opponents for having few or no cards in hand. For cards that c
 
 # Deckbuilding notes
 
-* Search: `otag:hate empty hand` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate empty hand` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

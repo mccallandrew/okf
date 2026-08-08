@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ An ability that triggers on both entering the battlefield and attacking, similar
 
 # Deckbuilding notes
 
-* Search: `otag:titan trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:titan trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

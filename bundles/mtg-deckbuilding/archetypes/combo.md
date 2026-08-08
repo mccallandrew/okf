@@ -36,7 +36,7 @@ sources:
 # Related
 
 * [Consistency and Redundancy](/foundations/consistency-and-redundancy.md)
-* [Commander Spellbook](/resources/commander-spellbook.md)
+* [Commander Spellbook](/builder-resources/commander-spellbook.md)
 * [Inevitability](/foundations/inevitability.md)
 * [Commander: Combo](/archetypes/commander/combo/)
 

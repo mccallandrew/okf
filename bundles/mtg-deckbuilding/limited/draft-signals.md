@@ -20,7 +20,7 @@ sources:
 * Prefer open lanes over forcing a predetermined deck unless the format rewards it.
 * Early picks can be powerful on-color cards or flexible high picks; later picks fill [curve](/limited/limited-curves.md) holes.[^wiz-curve]
 * Watch for cut colors (nothing good comes back) and double back when a color floods late.
-* Pair table reads with set knowledge from [Limited Resources](/resources/limited-resources.md) and [17Lands](/resources/seventeen-lands.md)—data informs, signals decide at the table.
+* Pair table reads with set knowledge from [Limited Resources](/builder-resources/limited-resources.md) and [17Lands](/builder-resources/seventeen-lands.md)—data informs, signals decide at the table.
 
 # Related
 

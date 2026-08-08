@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Tap a creature to pay for/activate an effect
 
 # Deckbuilding notes
 
-* Search: `otag:tap fuel-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tap fuel-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/tap`.
 
 # Related

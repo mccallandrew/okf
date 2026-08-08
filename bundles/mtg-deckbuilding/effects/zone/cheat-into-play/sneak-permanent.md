@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ sources:
 
 # Deckbuilding notes
 
-* Search: `otag:sneak-permanent` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sneak-permanent` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/cheat-into-play`.
 
 # Related

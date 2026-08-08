@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Lands you can pay 3 life/take 3 damage to have them enter untapped.
 
 # Deckbuilding notes
 
-* Search: `otag:boltland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:boltland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

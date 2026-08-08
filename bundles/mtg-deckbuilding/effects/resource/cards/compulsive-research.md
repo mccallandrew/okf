@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards with a function of "draw N cards, then discard 2 unless you discard [type]
 
 # Deckbuilding notes
 
-* Search: `otag:compulsive research` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:compulsive research` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

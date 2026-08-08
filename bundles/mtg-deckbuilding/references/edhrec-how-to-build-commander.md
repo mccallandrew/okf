@@ -28,6 +28,6 @@ Uses EDHREC commander pages and Archidekt as practical tooling around the plan.
 * [Category Budgets](/commander/category-budgets.md)
 * [Commander Selection](/commander/commander-selection.md)
 * [Deckbuilding Process](/process/deckbuilding-process.md)
-* [EDHREC](/resources/edhrec.md)
+* [EDHREC](/builder-resources/edhrec.md)
 
 [^edhrec-build]: How to Build a Commander Deck (Brian Cain / EDHREC)

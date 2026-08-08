@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that net you more than one mana at a time.
 
 # Deckbuilding notes
 
-* Search: `otag:adds multiple mana` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:adds multiple mana` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 * Burst mana production; relevant for big turns and sinks.
 

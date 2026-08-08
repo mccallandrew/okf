@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that let you draw a card as they resolve or enter the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:cantrip` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cantrip` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 * Low-cost card selection that replaces itself.
 

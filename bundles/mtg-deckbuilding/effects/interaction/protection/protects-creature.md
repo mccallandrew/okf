@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that can protect a creature, e.g. with protection,  hexproof, indestruct
 
 # Deckbuilding notes
 
-* Search: `otag:protects-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:protects-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

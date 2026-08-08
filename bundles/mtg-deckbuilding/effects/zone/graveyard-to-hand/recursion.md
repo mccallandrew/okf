@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Get stuff back from your graveyard to use it again. See: reanimate (to battlefie
 
 # Deckbuilding notes
 
-* Search: `otag:recursion` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:recursion` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 * Reuses graveyard resources; see also reanimate.
 

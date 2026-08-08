@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that tutor something and put it on the top of the library.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-to-top` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-to-top` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

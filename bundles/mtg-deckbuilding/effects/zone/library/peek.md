@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that give you access to hidden information (Yours or other players)
 
 # Deckbuilding notes
 
-* Search: `otag:peek` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:peek` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

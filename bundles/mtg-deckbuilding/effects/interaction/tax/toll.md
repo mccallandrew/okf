@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Generate resources from your opponent's actions without them being able to pay i
 
 # Deckbuilding notes
 
-* Search: `otag:toll` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:toll` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/tax`.
 
 # Related

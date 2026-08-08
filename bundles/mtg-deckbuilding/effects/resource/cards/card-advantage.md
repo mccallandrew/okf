@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Things that give you access to more cards.  (The technical meaning of card advan
 
 # Deckbuilding notes
 
-* Search: `otag:card advantage` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:card advantage` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 * Net access to more usable cards over time.
 

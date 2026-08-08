@@ -21,5 +21,5 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 # Related
 
 * [Constructed Overview](/formats/constructed-overview.md)
-* [MTGGoldfish](/resources/mtggoldfish.md)
+* [MTGGoldfish](/builder-resources/mtggoldfish.md)
 * [Testing and Iteration](/process/testing-and-iteration.md)

@@ -28,6 +28,6 @@ Aimed at casual / semi-competitive decks that close around turns 8–12, not tur
 * [Category Budgets](/commander/category-budgets.md)
 * [Land Counts](/mana/land-counts.md)
 * [Commander Curve and Ramp (Karsten)](/references/karsten-commander-curve.md)
-* [MTGGoldfish](/resources/mtggoldfish.md)
+* [MTGGoldfish](/builder-resources/mtggoldfish.md)
 
 [^goldfish-checklist]: The Power of a Deckbuilding Checklist (Commander Quickie)

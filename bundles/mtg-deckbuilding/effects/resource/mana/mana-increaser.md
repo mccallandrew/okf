@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that increase the mana produced by mana producers, usually lands.
 
 # Deckbuilding notes
 
-* Search: `otag:mana increaser` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana increaser` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

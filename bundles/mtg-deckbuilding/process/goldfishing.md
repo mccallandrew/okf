@@ -25,7 +25,7 @@ It catches curve and mana problems before you burn table time.
 * Track: keep rate, turn of first threat, turn mana is fully online, and how often you miss colors.
 * Goldfish on the play and on the draw; mulligan as you would in a real event.
 * For combo, measure “turn combo could go off” under no disruption—then remember real opponents disrupt.
-* Tools like [Moxfield](/resources/moxfield.md) playtest modes speed this up; paper piles work equally well.
+* Tools like [Moxfield](/builder-resources/moxfield.md) playtest modes speed this up; paper piles work equally well.
 * Commander goldfish should include ramp sequencing and commander cast turn.[^karsten-edh]
 
 # Limits

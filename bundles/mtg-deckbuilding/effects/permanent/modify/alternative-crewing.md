@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Vehicles with crew that also have alternative ways for self-animation. For vehic
 
 # Deckbuilding notes
 
-* Search: `otag:alternative crewing` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:alternative crewing` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

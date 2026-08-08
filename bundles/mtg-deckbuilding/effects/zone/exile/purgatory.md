@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ When your permanents die, they're stored in a holding area where they can come b
 
 # Deckbuilding notes
 
-* Search: `otag:purgatory` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:purgatory` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/exile`.
 
 # Related

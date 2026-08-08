@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that allow you to cast a card with a given mana value or less from your 
 
 # Deckbuilding notes
 
-* Search: `otag:expertise` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:expertise` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cast`.
 
 # Related

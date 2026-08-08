@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Block additional creatures beyond just the one.
 
 # Deckbuilding notes
 
-* Search: `otag:block additional` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:block additional` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/combat-manipulation`.
 
 # Related

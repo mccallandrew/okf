@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Force each player to discard cards without drawing back up. See also [wheel-symm
 
 # Deckbuilding notes
 
-* Search: `otag:discard-symmetrical` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:discard-symmetrical` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/hand`.
 
 # Related

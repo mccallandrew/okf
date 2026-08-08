@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exiles creatures from the graveyard for value
 
 # Deckbuilding notes
 
-* Search: `otag:graveyard fuel-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:graveyard fuel-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

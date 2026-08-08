@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Extract resources from your opponents when they try to do stuff, either by makin
 
 # Deckbuilding notes
 
-* Search: `otag:tax` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tax` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/tax`.
 * Stax-adjacent cost increases.
 

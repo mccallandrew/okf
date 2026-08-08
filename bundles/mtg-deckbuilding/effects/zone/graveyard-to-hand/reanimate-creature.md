@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Return creature cards currently in the graveyard to the battlefield. Not to be c
 
 # Deckbuilding notes
 
-* Search: `otag:reanimate-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:reanimate-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that can give you some form of card advantage upon dealing damage, usually
 
 # Deckbuilding notes
 
-* Search: `otag:curiosity-like` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:curiosity-like` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

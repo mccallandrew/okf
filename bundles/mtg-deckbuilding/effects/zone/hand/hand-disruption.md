@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Mess with your opponent's hand.
 
 # Deckbuilding notes
 
-* Search: `otag:hand disruption` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hand disruption` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/hand`.
 
 # Related

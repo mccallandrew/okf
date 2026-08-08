@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Opponent reveals their hand, and you choose a card for them to discard.
 
 # Deckbuilding notes
 
-* Search: `otag:thoughtseize` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:thoughtseize` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

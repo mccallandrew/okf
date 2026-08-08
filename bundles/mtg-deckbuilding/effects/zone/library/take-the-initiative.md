@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that take the initiative, allowing you to enter Undercity and venture furt
 
 # Deckbuilding notes
 
-* Search: `otag:take the initiative` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:take the initiative` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

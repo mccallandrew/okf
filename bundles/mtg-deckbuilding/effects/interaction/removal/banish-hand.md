@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile one or more cards from a player's hand as long as this remains in play.
 
 # Deckbuilding notes
 
-* Search: `otag:banish-hand` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:banish-hand` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

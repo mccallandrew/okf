@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Prevent a creature from untapping for its next N untaps. For effects that preven
 
 # Deckbuilding notes
 
-* Search: `otag:freeze-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:freeze-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/tap`.
 
 # Related

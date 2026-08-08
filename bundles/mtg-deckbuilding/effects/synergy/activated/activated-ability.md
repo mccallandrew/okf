@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards with activated abilities.
 
 # Deckbuilding notes
 
-* Search: `otag:activated ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:activated ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/activated`.
 
 # Related

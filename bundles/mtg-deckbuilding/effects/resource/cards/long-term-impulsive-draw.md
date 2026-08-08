@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Impulsive draw effects that let you play the exiled cards beyond this turn, lett
 
 # Deckbuilding notes
 
-* Search: `otag:long term impulsive draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:long term impulsive draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

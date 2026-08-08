@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that can prevent all or most of the damage from an entire combat, simila
 
 # Deckbuilding notes
 
-* Search: `otag:fog` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:fog` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

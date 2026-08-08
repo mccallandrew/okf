@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ When a creature attacks, get mana of some kind
 
 # Deckbuilding notes
 
-* Search: `otag:firebend-like` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:firebend-like` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

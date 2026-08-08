@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ An ability that makes defending players lose life for blocking. It exists primar
 
 # Deckbuilding notes
 
-* Search: `otag:afflict` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:afflict` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

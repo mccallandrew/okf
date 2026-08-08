@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Abilities that trigger off other creatures dying to this one. Named after the mo
 
 # Deckbuilding notes
 
-* Search: `otag:hunger trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hunger trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

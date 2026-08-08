@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Permanents that move around the board on their own
 
 # Deckbuilding notes
 
-* Search: `otag:defector` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:defector` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/control`.
 
 # Related

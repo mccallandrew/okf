@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Abilities that can be activated from exile.
 
 # Deckbuilding notes
 
-* Search: `otag:activate from exile` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:activate from exile` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/activated`.
 
 # Related

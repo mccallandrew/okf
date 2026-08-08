@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Look at the top N cards and put 1+ of them into your hand. Not to be confused wi
 
 # Deckbuilding notes
 
-* Search: `otag:impulse` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:impulse` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

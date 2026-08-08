@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Permanents that have an effect that triggers when they enter the battlefield and
 
 # Deckbuilding notes
 
-* Search: `otag:life-and-death-trigger-self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:life-and-death-trigger-self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that trigger when lands enter the battlefield under an opponent's contro
 
 # Deckbuilding notes
 
-* Search: `otag:landfall other` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:landfall other` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

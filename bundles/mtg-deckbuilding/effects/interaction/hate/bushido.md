@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Whenever X blocks or becomes blocked, it's power and toughness is modified until
 
 # Deckbuilding notes
 
-* Search: `otag:bushido` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bushido` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

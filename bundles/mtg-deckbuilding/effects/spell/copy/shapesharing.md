@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Something on the battlefield becomes a copy of something else.
 
 # Deckbuilding notes
 
-* Search: `otag:shapesharing` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:shapesharing` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/copy`.
 
 # Related

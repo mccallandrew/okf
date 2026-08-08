@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ When a spell is cast, something happens unless the player casting the spell pays
 
 # Deckbuilding notes
 
-* Search: `otag:cast tax` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cast tax` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/tax`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Remove all cards from one or more graveyards
 
 # Deckbuilding notes
 
-* Search: `otag:sweeper-graveyard` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sweeper-graveyard` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

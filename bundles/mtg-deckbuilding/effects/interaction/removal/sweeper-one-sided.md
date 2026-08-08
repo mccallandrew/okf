@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Sweepers that are, or have high potential to be, one-sided.
 
 # Deckbuilding notes
 
-* Search: `otag:sweeper-one-sided` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sweeper-one-sided` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

@@ -36,7 +36,7 @@ sources:
 * Change **one axis** at a time when possible (mana, threat density, or hate—not all three).[^mtgedh-skeleton]
 * In Commander, prefer diagnosing a failing **[package](/commander/packages.md)** (bloated, thin, or misaligned) before swapping random one-ofs; grow, shrink, or retire packages as you learn the deck.[^341-build]
 * Name the swap type: match [bracket](/commander/power-level-and-brackets.md), replace an under-performer, fix a weakness, or run a deliberate “homework” test card.[^edhrec-upgrade]
-* Prefer larger samples against the expected metagame; one viral list is a hypothesis, not proof—check [MTGTop8](/resources/mtgtop8.md) / [MTGGoldfish](/resources/mtggoldfish.md) for Constructed.
+* Prefer larger samples against the expected metagame; one viral list is a hypothesis, not proof—check [MTGTop8](/builder-resources/mtgtop8.md) / [MTGGoldfish](/builder-resources/mtggoldfish.md) for Constructed.
 * After changes, re-goldfish and retest the previously failing matchup.
 * Use pre- and **post-game** Rule 0 in Commander: if a list consistently dominates its claimed band, retune or move brackets rather than blaming “luck.”[^edhrec-power]
 * Treat the list as a **living project**—play patterns and [local meta](/commander/local-meta.md) keep revealing package gaps.[^341-build]

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile your cards when a creature deals damage to an opponent, and you can play t
 
 # Deckbuilding notes
 
-* Search: `otag:impulsive curiosity` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:impulsive curiosity` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

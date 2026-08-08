@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Because you can get more menacing than menace.
 
 # Deckbuilding notes
 
-* Search: `otag:super-menace` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:super-menace` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/evasion`.
 
 # Related

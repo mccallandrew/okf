@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Attacking with at least two other creatures matters.
 
 # Deckbuilding notes
 
-* Search: `otag:battalion` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:battalion` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 * Payoff for attacking with a critical mass of creatures.
 

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Wheel effects that effect each player, sometimes with no choice on whether they 
 
 # Deckbuilding notes
 
-* Search: `otag:wheel-symmetrical` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:wheel-symmetrical` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Ways to discard repeatedly that require no additional cost or numerical limit.
 
 # Deckbuilding notes
 
-* Search: `otag:free discard outlet` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:free discard outlet` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/hand`.
 
 # Related

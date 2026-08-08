@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Block an unlimited, or practically unlimited, number of creatures.
 
 # Deckbuilding notes
 
-* Search: `otag:block unlimited` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:block unlimited` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/combat-manipulation`.
 
 # Related

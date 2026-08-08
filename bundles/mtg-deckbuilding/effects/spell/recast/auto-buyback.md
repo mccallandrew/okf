@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Derived from the buyback keyword, this ability will automatically return a card 
 
 # Deckbuilding notes
 
-* Search: `otag:auto buyback` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:auto buyback` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/recast`.
 * Spells that return themselves for reuse after a condition.
 

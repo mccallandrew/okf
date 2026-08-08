@@ -22,4 +22,4 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 
 * [Constructed Overview](/formats/constructed-overview.md)
 * [Sideboarding](/process/sideboarding.md)
-* [MTGTop8](/resources/mtgtop8.md)
+* [MTGTop8](/builder-resources/mtgtop8.md)

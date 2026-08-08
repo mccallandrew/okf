@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Repeatable effects that, if an arbitrary amount of mana is dumped into them, wil
 
 # Deckbuilding notes
 
-* Search: `otag:bottomless mana sink` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bottomless mana sink` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards where the casting cost includes phyrexian mana
 
 # Deckbuilding notes
 
-* Search: `otag:phyrexian mana cost` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:phyrexian mana cost` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cost-reduction`.
 
 # Related

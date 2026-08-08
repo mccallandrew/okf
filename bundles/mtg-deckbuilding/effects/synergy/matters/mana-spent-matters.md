@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that care about the amount, type, and/or qualities of mana spent to do a
 
 # Deckbuilding notes
 
-* Search: `otag:mana spent matters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana spent matters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

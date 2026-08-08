@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards with power and/or toughness equal to number of cards in the graveyard, or 
 
 # Deckbuilding notes
 
-* Search: `otag:lhurgoyf` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:lhurgoyf` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ An ability that triggers based on actions taken earlier during a spell or abilit
 
 # Deckbuilding notes
 
-* Search: `otag:reflexive trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:reflexive trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

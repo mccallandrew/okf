@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Exile a card to be brought back after a set time (usually at end of turn).
 
 # Deckbuilding notes
 
-* Search: `otag:flicker-slow` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:flicker-slow` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/blink`.
 
 # Related

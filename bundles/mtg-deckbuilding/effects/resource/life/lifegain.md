@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that cause you to gain life.
 
 # Deckbuilding notes
 
-* Search: `otag:lifegain` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:lifegain` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 * Life as a resource or win-condition enabler.
 

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Bring back a card of any card type from your graveyard to your hand.
 
 # Deckbuilding notes
 
-* Search: `otag:regrowth-any` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:regrowth-any` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

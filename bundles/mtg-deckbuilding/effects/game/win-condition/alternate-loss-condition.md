@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ New ways for you to lose the game
 
 # Deckbuilding notes
 
-* Search: `otag:alternate loss condition` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:alternate loss condition` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/win-condition`.
 
 # Related

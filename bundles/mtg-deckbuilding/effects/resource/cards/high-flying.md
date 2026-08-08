@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Flying creatures that can only block other flying creatures. See also [gives hig
 
 # Deckbuilding notes
 
-* Search: `otag:high flying` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:high flying` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Generate mana/more lands by attacking and/or dealing combat damage
 
 # Deckbuilding notes
 
-* Search: `otag:combat ramp` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:combat ramp` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Low-cost creatures which can repeatedly generate mana
 
 # Deckbuilding notes
 
-* Search: `otag:mana dork` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana dork` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 * Creature-based mana acceleration.
 

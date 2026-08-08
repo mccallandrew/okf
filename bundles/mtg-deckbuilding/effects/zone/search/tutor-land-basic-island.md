@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that tutor basic Island land cards.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-land-basic-island` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-land-basic-island` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

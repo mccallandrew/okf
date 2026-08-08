@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Look at some number of cards from the top of libraries
 
 # Deckbuilding notes
 
-* Search: `otag:peek-library` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:peek-library` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

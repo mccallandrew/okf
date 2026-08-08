@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Color hate for one or more colors. See also [hate-colorless](/tags/card/hate-col
 
 # Deckbuilding notes
 
-* Search: `otag:hate-color` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-color` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

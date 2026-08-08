@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Returning a permanent from the battlefield to its owner's hand
 
 # Deckbuilding notes
 
-* Search: `otag:bounce` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bounce` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/battlefield-to-hand`.
 
 # Related

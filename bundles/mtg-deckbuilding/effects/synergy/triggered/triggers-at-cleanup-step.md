@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that trigger at the cleanup step, rather than what would usually be the en
 
 # Deckbuilding notes
 
-* Search: `otag:triggers at cleanup step` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:triggers at cleanup step` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

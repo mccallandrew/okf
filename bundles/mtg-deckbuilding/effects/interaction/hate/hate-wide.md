@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ The more creatures your opponent controls, the more these cards scale up to puni
 
 # Deckbuilding notes
 
-* Search: `otag:hate-wide` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-wide` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

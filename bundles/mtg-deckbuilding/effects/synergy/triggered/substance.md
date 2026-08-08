@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Substance is an obsolete static ability that has no effect at all. It existed br
 
 # Deckbuilding notes
 
-* Search: `otag:substance` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:substance` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

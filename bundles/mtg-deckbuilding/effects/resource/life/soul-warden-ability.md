@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Creatures entering the battlefield causes you to gain N life.
 
 # Deckbuilding notes
 
-* Search: `otag:soul warden ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:soul warden ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

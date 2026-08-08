@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Exile things as long as this permanent remains.
 
 # Deckbuilding notes
 
-* Search: `otag:banish` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:banish` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

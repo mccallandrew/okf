@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Enchantments that put stuff on the battlefield and then become Auras enchanting 
 
 # Deckbuilding notes
 
-* Search: `otag:animate dead-like` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:animate dead-like` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-battlefield`.
 * Aura reanimation that sticks to the permanent; classic recursion package.
 

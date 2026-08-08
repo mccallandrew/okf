@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ A creature deals damage equal to its power to another. Like Fight, but without t
 
 # Deckbuilding notes
 
-* Search: `otag:one-sided fight` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:one-sided fight` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

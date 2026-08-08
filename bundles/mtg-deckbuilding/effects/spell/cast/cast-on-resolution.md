@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Spells and abilities that let you cast spells as part of their resolution.
 
 # Deckbuilding notes
 
-* Search: `otag:cast on resolution` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cast on resolution` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cast`.
 
 # Related

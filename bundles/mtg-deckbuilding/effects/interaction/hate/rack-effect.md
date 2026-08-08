@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Players get burned or lose life for having a small hand.
 
 # Deckbuilding notes
 
-* Search: `otag:rack effect` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:rack effect` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

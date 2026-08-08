@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures that can be sacrificed to add mana.
 
 # Deckbuilding notes
 
-* Search: `otag:mana dork egg` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana dork egg` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

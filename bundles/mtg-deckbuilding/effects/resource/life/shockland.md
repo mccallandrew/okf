@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Lands which enter tapped unless you pay two life.
 
 # Deckbuilding notes
 
-* Search: `otag:shockland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:shockland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

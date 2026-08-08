@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that trigger when you deal damage to an opponent.
 
 # Deckbuilding notes
 
-* Search: `otag:saboteur` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:saboteur` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

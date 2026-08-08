@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Sacrifice something else to draw cards.
 
 # Deckbuilding notes
 
-* Search: `otag:plunder` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:plunder` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

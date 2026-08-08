@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Other than in, you know, the usual way.
 
 # Deckbuilding notes
 
-* Search: `otag:toughness matters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:toughness matters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

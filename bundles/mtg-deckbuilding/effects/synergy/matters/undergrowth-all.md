@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about the amount of creatures card in all graveyards.
 
 # Deckbuilding notes
 
-* Search: `otag:undergrowth-all` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:undergrowth-all` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Permanents with abilities that trigger when they leave the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:leaves trigger-self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:leaves trigger-self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

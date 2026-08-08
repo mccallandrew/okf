@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ These cards can give you a copy of a legendary permanent you control that you ca
 
 # Deckbuilding notes
 
-* Search: `otag:copy-legendary` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:copy-legendary` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/copy`.
 
 # Related

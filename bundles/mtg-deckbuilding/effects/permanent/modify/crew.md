@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Compilation tag for the Crew keyword. Should be 1:1 with [kw:crew](https://scryf
 
 # Deckbuilding notes
 
-* Search: `otag:crew` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:crew` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

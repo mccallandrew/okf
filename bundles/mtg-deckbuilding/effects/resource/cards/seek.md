@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Put a random card from your library into another zone, usually your hand.
 
 # Deckbuilding notes
 
-* Search: `otag:seek` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:seek` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

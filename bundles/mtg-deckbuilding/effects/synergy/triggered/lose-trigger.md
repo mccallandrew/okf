@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that trigger when an opponent loses the game (as opposed a replacement eff
 
 # Deckbuilding notes
 
-* Search: `otag:lose trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:lose trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

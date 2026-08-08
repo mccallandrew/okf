@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Land ramp that (potentially) nets two or more lands on your side of the battlefi
 
 # Deckbuilding notes
 
-* Search: `otag:multi land ramp` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:multi land ramp` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

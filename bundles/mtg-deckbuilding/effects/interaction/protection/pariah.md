@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that redirect damage to themselves (Or to the unfortunate equipped/enchant
 
 # Deckbuilding notes
 
-* Search: `otag:pariah` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:pariah` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

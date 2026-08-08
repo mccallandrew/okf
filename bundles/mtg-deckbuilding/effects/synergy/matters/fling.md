@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Sacrifice a creature to deal its power in damage to something. See also [bombard
 
 # Deckbuilding notes
 
-* Search: `otag:fling` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:fling` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

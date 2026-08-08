@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that punish low toughness in ways beyond just the usual [damaging](burn-cr
 
 # Deckbuilding notes
 
-* Search: `otag:hate-low-toughness` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-low-toughness` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

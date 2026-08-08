@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Abilities that trigger from permanents being sent to a graveyard. See also [leav
 
 # Deckbuilding notes
 
-* Search: `otag:death trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:death trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

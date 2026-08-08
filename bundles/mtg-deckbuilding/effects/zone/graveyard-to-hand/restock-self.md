@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that restock themselves.
 
 # Deckbuilding notes
 
-* Search: `otag:restock-self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:restock-self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

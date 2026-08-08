@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Flicker effects that work on all permanent types other than land.
 
 # Deckbuilding notes
 
-* Search: `otag:flicker-nonland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:flicker-nonland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/blink`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A static ability preventing a fixed number of damage to permanents or players.
 
 # Deckbuilding notes
 
-* Search: `otag:absorb` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:absorb` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

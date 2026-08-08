@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that specifically hate on cards with high mana value, typically at least 3
 
 # Deckbuilding notes
 
-* Search: `otag:hate-high-mv` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-high-mv` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

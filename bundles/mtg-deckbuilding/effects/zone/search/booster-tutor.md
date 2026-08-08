@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards, usually acorn cards, that have you open booster packs to add into the gam
 
 # Deckbuilding notes
 
-* Search: `otag:booster tutor` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:booster tutor` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

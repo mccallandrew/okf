@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A keyword action used in Magic to describe the action of a player taking cards f
 
 # Deckbuilding notes
 
-* Search: `otag:mill` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mill` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 * Library-as-resource or alternate win plans.
 

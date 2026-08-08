@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Create a triggered ability that may trigger later. Similar to a [reflexive trigg
 
 # Deckbuilding notes
 
-* Search: `otag:delayed trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:delayed trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Effects that increase available mana for current or later turns.
 
 # Deckbuilding notes
 
-* Search: `otag:ramp` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:ramp` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 * Accelerates mana; core to curves and Commander category budgets.
 

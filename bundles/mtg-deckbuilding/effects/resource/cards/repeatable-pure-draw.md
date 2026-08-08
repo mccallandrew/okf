@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Repeatable ways to draw a card with no additional cost or sacrifice, such as dis
 
 # Deckbuilding notes
 
-* Search: `otag:repeatable pure draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:repeatable pure draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that make creatures unblockable except by creatures with flying or reach w
 
 # Deckbuilding notes
 
-* Search: `otag:gives fake flying` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives fake flying` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/evasion`.
 
 # Related

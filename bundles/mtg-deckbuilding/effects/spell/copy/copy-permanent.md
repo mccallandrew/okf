@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that allow you to copy any permanent, regardless of its card type.
 
 # Deckbuilding notes
 
-* Search: `otag:copy-permanent` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:copy-permanent` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/copy`.
 
 # Related

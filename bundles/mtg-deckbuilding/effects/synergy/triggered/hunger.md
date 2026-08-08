@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures dying to this one make this one grow stronger. Coined by Maro: http://
 
 # Deckbuilding notes
 
-* Search: `otag:hunger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hunger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

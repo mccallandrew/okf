@@ -45,7 +45,7 @@ Authoritative rules (command zone, tax, color identity, commander damage) live i
 * Hit [category budgets](/commander/category-budgets.md) and/or assemble themed [packages](/commander/packages.md) (~8×8) so roles stay dense.[^cz-template][^341-build]
 * Mana: mid-30s lands as a baseline, [pip distribution](/mana/pip-distribution.md) for color weights, colored sources scaled to 99 cards, rocks tuned to commander cost.[^karsten-edh][^karsten-sources][^341-build]
 * Prefer commander-shaped synergy over default staples when filling packages.[^341-build]
-* Use [EDHREC](/resources/edhrec.md), [Archidekt](/resources/archidekt.md), and [Commander Spellbook](/resources/commander-spellbook.md) as tools—not as the plan itself; brew first, then consult.[^341-build]
+* Use [EDHREC](/builder-resources/edhrec.md), [Archidekt](/builder-resources/archidekt.md), and [Commander Spellbook](/builder-resources/commander-spellbook.md) as tools—not as the plan itself; brew first, then consult.[^341-build]
 * Align [brackets](/commander/power-level-and-brackets.md) with the table using the official five-bracket / Game Changers framework.[^wiz-brackets]
 * Tune ongoing lists against your [local meta](/commander/local-meta.md).[^341-build]
 * Multiplayer “good” decks generate answerable resource advantages; build and pilot with [threat assessment](/references/edhrec-threat-assessment.md) in mind.[^edhrec-threat]

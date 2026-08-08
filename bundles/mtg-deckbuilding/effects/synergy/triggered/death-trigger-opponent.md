@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that trigger when an opponent's permanent is sent to a graveyard.
 
 # Deckbuilding notes
 
-* Search: `otag:death trigger opponent` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:death trigger opponent` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

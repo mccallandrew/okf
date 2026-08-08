@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that let you return permanents to your hand to play them for less/no mana
 
 # Deckbuilding notes
 
-* Search: `otag:alternate-cost-bounce` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:alternate-cost-bounce` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/battlefield-to-hand`.
 
 # Related

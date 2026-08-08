@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ The ability to 'scry' another player's library instead of your own. Variants of 
 
 # Deckbuilding notes
 
-* Search: `otag:fateseal` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:fateseal` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

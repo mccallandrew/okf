@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that tutor cards with a certain mana value.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-mv` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-mv` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

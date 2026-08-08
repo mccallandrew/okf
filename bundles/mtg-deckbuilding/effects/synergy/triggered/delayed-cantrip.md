@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Draw a card next turn.
 
 # Deckbuilding notes
 
-* Search: `otag:delayed cantrip` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:delayed cantrip` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

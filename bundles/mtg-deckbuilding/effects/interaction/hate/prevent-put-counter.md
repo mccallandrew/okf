@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that limit the number of counters placed on permanents or players.
 
 # Deckbuilding notes
 
-* Search: `otag:prevent put counter` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:prevent put counter` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

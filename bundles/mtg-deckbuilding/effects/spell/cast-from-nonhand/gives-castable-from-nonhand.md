@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Allows you to play other cards from zones other than your hand.
 
 # Deckbuilding notes
 
-* Search: `otag:gives castable from nonhand` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives castable from nonhand` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cast-from-nonhand`.
 
 # Related

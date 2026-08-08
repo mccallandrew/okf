@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about specifically different types of counters.
 
 # Deckbuilding notes
 
-* Search: `otag:unique counters matter` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:unique counters matter` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

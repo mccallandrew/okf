@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Instant-speed cards that do something extra if you played them during your main 
 
 # Deckbuilding notes
 
-* Search: `otag:addendum` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:addendum` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cast`.
 * Main-phase bonus on instant-speed spells; timing matters for value.
 

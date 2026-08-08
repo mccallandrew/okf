@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Fog effects where the damage prevention is or has the potential to be asymmetric
 
 # Deckbuilding notes
 
-* Search: `otag:fog-selective` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:fog-selective` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

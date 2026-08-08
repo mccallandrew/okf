@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile a spell on the stack, and bring it back when this permanent goes away.
 
 # Deckbuilding notes
 
-* Search: `otag:banish-spell` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:banish-spell` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

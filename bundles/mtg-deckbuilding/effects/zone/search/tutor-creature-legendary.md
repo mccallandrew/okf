@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that tutor legendary creature cards.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-creature-legendary` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-creature-legendary` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Put a +1/+1 counter on each of up to N target creatures.
 
 # Deckbuilding notes
 
-* Search: `otag:support` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:support` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Auras you can bounce back to your hand.
 
 # Deckbuilding notes
 
-* Search: `otag:bounceable aura` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bounceable aura` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/battlefield-to-hand`.
 
 # Related

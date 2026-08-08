@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ All creatures able to block this creature must do so. See also [lure-limited](lu
 
 # Deckbuilding notes
 
-* Search: `otag:lure` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:lure` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/combat-manipulation`.
 
 # Related

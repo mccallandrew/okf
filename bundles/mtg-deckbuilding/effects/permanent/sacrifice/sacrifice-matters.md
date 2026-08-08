@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that give you some kind of benefit for sacrificing stuff, or for making yo
 
 # Deckbuilding notes
 
-* Search: `otag:sacrifice matters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sacrifice matters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

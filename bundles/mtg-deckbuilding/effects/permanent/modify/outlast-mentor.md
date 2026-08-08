@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures with Outlast that boost your creatures that have counters on them.
 
 # Deckbuilding notes
 
-* Search: `otag:outlast mentor` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:outlast mentor` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

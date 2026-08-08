@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Before the keyword was made evergreen in Magic 2010, deathtouch was sometimes a 
 
 # Deckbuilding notes
 
-* Search: `otag:old damage deathtouch` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:old damage deathtouch` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

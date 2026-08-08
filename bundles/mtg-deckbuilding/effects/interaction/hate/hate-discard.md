@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Your opponent had better think twice before targeting you with that [Mind Rot](h
 
 # Deckbuilding notes
 
-* Search: `otag:hate-discard` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-discard` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

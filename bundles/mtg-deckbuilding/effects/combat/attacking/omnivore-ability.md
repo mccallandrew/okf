@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A creature's combat damage effectively hits multiple opponents.
 
 # Deckbuilding notes
 
-* Search: `otag:omnivore ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:omnivore ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

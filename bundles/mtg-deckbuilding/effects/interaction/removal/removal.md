@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Get things off the table.
 
 # Deckbuilding notes
 
-* Search: `otag:removal` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:removal` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 * Primary answers that get permanents off the board.
 

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that make it harder for your opponents to target your stuff or punish them
 
 # Deckbuilding notes
 
-* Search: `otag:hate-target` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-target` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

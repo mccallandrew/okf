@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Noncreatures that can become creatures. For creatures that can stop being creatu
 
 # Deckbuilding notes
 
-* Search: `otag:animate self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:animate self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

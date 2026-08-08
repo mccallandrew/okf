@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Removal for more than one, but less than all.  See also [spot removal](spot-remo
 
 # Deckbuilding notes
 
-* Search: `otag:multi removal` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:multi removal` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Collection tag used to apply the various tags that comprise the keyword Renown. 
 
 # Deckbuilding notes
 
-* Search: `otag:renown` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:renown` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ The "can't be blocked by more than one creature" ability, [as named by the desig
 
 # Deckbuilding notes
 
-* Search: `otag:stalking` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:stalking` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/evasion`.
 
 # Related

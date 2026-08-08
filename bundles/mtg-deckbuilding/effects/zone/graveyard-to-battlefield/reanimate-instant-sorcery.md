@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Effects that let you actually take an instant or sorcery card from a graveyard a
 
 # Deckbuilding notes
 
-* Search: `otag:reanimate-instant/sorcery` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:reanimate-instant/sorcery` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-battlefield`.
 
 # Related

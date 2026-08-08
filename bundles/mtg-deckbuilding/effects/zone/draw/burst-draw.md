@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Card draw effects that can net you a bunch of cards at once. As a rule of thumb,
 
 # Deckbuilding notes
 
-* Search: `otag:burst draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:burst draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/draw`.
 
 # Related

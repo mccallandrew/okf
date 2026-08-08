@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards with repeatable effects that you can dump a bunch of mana (at least 3) int
 
 # Deckbuilding notes
 
-* Search: `otag:mana sink` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana sink` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

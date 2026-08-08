@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Modal spells where you pick three options out of three, with the ability to choo
 
 # Deckbuilding notes
 
-* Search: `otag:confluence` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:confluence` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/modal`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Enters and causes all players to sacrifice a creature.
 
 # Deckbuilding notes
 
-* Search: `otag:marauder` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:marauder` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

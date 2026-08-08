@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that do stuff to things that have already received damage.
 
 # Deckbuilding notes
 
-* Search: `otag:hate-damaged` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-damaged` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

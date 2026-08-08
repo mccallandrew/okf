@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Get stuff that just went away back on the battlefield. Compare [cheat death](che
 
 # Deckbuilding notes
 
-* Search: `otag:grim return` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:grim return` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

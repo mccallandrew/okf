@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile your permanents to return them at much later point, essentially storing th
 
 # Deckbuilding notes
 
-* Search: `otag:haven` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:haven` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/exile`.
 
 # Related

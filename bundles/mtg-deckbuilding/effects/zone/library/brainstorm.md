@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Draw a number of cards, then put cards from your hand on top of your library in 
 
 # Deckbuilding notes
 
-* Search: `otag:brainstorm` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:brainstorm` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

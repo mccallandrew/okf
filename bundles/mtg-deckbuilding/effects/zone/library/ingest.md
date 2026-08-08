@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Permanents that exile one or more cards from the top of an opponent's library up
 
 # Deckbuilding notes
 
-* Search: `otag:ingest` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:ingest` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

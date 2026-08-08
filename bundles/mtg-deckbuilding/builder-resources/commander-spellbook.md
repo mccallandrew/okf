@@ -22,4 +22,4 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 
 * [Combo](/archetypes/combo.md)
 * [Power Level and Brackets](/commander/power-level-and-brackets.md)
-* [EDHREC](/resources/edhrec.md)
+* [EDHREC](/builder-resources/edhrec.md)

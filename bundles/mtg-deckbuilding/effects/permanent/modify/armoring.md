@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ A toughness-pumping ability. See also [firebreathing] in red and [shade pump] in
 
 # Deckbuilding notes
 
-* Search: `otag:armoring` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:armoring` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 * Repeatable toughness pumps; defensive combat math.
 

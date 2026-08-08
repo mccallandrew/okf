@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that put an instant back in your library from the graveyard.
 
 # Deckbuilding notes
 
-* Search: `otag:restock-instant` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:restock-instant` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ The specific keyword, madness (Used for applying specific subtags)
 
 # Deckbuilding notes
 
-* Search: `otag:madness` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:madness` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cast`.
 
 # Related

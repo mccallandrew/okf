@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Draw a card, then discard a card. Mainly blue. See also [rummage](/tags/card/rum
 
 # Deckbuilding notes
 
-* Search: `otag:loot` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:loot` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

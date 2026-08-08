@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A family of two-card rummage spells.
 
 # Deckbuilding notes
 
-* Search: `otag:tormenting voice` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tormenting voice` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Punish your opponent for trying to make you sacrifice your creatures. As a rule 
 
 # Deckbuilding notes
 
-* Search: `otag:hate-removal-sacrifice` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-removal-sacrifice` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

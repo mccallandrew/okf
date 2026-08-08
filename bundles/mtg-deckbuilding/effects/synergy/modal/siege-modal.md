@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Named ongoing modal effect. Chosen when entering and tracked by players.
 
 # Deckbuilding notes
 
-* Search: `otag:siege (modal)` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:siege (modal)` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/modal`.
 
 # Related

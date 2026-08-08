@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures that scale in power and toughness with the number of lands you control
 
 # Deckbuilding notes
 
-* Search: `otag:maro-sorcerer` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:maro-sorcerer` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

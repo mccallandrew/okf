@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Modal instant or sorcery spells that offer the option to either deal damage to c
 
 # Deckbuilding notes
 
-* Search: `otag:abrade` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:abrade` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

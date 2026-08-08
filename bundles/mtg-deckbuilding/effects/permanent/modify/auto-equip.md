@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Equipments that attach themselves to other creatures as they enter the battlefie
 
 # Deckbuilding notes
 
-* Search: `otag:auto equip` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:auto equip` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 * Equipment that snaps on at ETB; lowers equip friction.
 

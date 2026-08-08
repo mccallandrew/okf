@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Remove everything attached to a permanent while possibly leaving the permanent b
 
 # Deckbuilding notes
 
-* Search: `otag:sunder` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sunder` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

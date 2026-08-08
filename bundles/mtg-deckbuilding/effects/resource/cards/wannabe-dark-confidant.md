@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that riff off of Dark Confidant's iconic card advantage design.
 
 # Deckbuilding notes
 
-* Search: `otag:wannabe dark confidant` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:wannabe dark confidant` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

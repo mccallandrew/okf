@@ -1,4 +1,4 @@
-# Resources
+# Builder Resources
 
 External tools and community sites for deckbuilding:
 

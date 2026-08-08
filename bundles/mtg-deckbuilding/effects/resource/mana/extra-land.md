@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that allow you to put additional lands from your hand, top of the librar
 
 # Deckbuilding notes
 
-* Search: `otag:extra land` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:extra land` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

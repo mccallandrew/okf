@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Get cards in exchange for your life (damage causes loss of life).
 
 # Deckbuilding notes
 
-* Search: `otag:life for cards` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:life for cards` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

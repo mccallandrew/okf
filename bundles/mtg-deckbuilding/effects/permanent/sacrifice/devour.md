@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Before a creature enters the battlefield, the player may sacrifice a number of p
 
 # Deckbuilding notes
 
-* Search: `otag:devour` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:devour` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

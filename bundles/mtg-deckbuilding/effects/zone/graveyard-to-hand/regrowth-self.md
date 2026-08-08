@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that can return themselves from the graveyard to the hand.
 
 # Deckbuilding notes
 
-* Search: `otag:regrowth-self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:regrowth-self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

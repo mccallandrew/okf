@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that prevent players from attacking unless they pay a cost, usually mana
 
 # Deckbuilding notes
 
-* Search: `otag:tax attack` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tax attack` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/pillowfort`.
 
 # Related

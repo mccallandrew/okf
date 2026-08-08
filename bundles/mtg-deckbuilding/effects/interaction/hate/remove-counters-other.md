@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Remove counters from your opponents or their stuff.
 
 # Deckbuilding notes
 
-* Search: `otag:remove counters-other` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:remove counters-other` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

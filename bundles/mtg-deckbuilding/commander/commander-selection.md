@@ -37,7 +37,7 @@ Selection is often [bottom-up](/process/top-down-vs-bottom-up.md) (“this card 
 * Build *around* the commander’s desires without *relying* solely on it—add redundant engines or protection if the commander is the only payoff.[^draftsim-tips]
 * For a first custom deck, prefer **mono or two colors**; three-plus color identities multiply manabase difficulty.[^mtgs-first]
 * Lower mana value commanders are easier to recast under tax; expensive commanders need more ramp and protection.[^karsten-edh]
-* Browse [EDHREC](/resources/edhrec.md) for inspiration after you know the plan—or to discover commanders that match a theme.
+* Browse [EDHREC](/builder-resources/edhrec.md) for inspiration after you know the plan—or to discover commanders that match a theme.
 * Partner / background options add identity colors and complexity—budget deck slots accordingly.
 * Preconstructed decks remain a valid on-ramp if scratch-building is not the goal.[^mtgs-first]
 
@@ -45,7 +45,7 @@ Selection is often [bottom-up](/process/top-down-vs-bottom-up.md) (“this card 
 
 With 2,000+ legal commanders, filter before falling in love:[^341-build]
 
-1. Encode the vision in [Scryfall](/resources/scryfall.md) (keywords, card types, color identity).
+1. Encode the vision in [Scryfall](/builder-resources/scryfall.md) (keywords, card types, color identity).
 2. Trim to a shortlist (tens → ~10), then score each candidate against the sketch—not only oracle text novelty.
 3. Prefer commanders that are **batteries included** for the plan (graveyard interaction out of the box for a graveyard vision) over cool abilities that still need a full support suite.
 4. Reject identities that break **budget** (e.g. greedy five-color manabases) or hit an early **glass ceiling** (engines that force many weak cards if you want a high upgrade path).
@@ -61,7 +61,7 @@ Example outcome: Kess, Dissident Mage over flashier shortlist options because gr
 * [Category Budgets](/commander/category-budgets.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
 * [Formats — Commander Overview](/formats/commander-overview.md)
-* [Scryfall](/resources/scryfall.md)
+* [Scryfall](/builder-resources/scryfall.md)
 * [9 Critical Tips (Draftsim)](/references/draftsim-edh-deck-tips.md)
 
 [^mtgs-first]: First Commander Deck Walkthrough

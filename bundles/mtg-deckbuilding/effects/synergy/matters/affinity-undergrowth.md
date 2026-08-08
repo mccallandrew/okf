@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Affinity which cares about how many creatures are in your graveyard.
 
 # Deckbuilding notes
 
-* Search: `otag:affinity undergrowth` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:affinity undergrowth` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

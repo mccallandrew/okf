@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Spells and abilities that textually draw you cards. See also [pure draw](pure-dr
 
 # Deckbuilding notes
 
-* Search: `otag:draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/draw`.
 * Card flow; pairs with card-advantage plans.
 

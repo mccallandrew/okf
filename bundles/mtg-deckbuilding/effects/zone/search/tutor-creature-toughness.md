@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that tutor creature cards with a certain toughness.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-creature-toughness` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-creature-toughness` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

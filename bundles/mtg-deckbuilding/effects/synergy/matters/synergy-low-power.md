@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that care about you having creatures with power below some boundary valu
 
 # Deckbuilding notes
 
-* Search: `otag:synergy-low-power` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:synergy-low-power` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

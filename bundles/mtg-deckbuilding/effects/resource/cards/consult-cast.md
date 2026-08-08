@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Consult effects that let you cast the card you find.
 
 # Deckbuilding notes
 
-* Search: `otag:consult-cast` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:consult-cast` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

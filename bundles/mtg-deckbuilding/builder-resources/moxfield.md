@@ -21,5 +21,5 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 # Related
 
 * [Goldfishing](/process/goldfishing.md)
-* [EDHREC](/resources/edhrec.md)
-* [Archidekt](/resources/archidekt.md)
+* [EDHREC](/builder-resources/edhrec.md)
+* [Archidekt](/builder-resources/archidekt.md)

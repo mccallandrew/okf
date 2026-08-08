@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cast a permanent spell from your graveyard.
 
 # Deckbuilding notes
 
-* Search: `otag:reanimate-cast` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:reanimate-cast` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-battlefield`.
 
 # Related

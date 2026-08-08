@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ A form of removal that prevents a creature from attacking, and usually also from
 
 # Deckbuilding notes
 
-* Search: `otag:pacifism` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:pacifism` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Derived from the titular card, this refers to the effect in which lands lose the
 
 # Deckbuilding notes
 
-* Search: `otag:blood moon effect` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:blood moon effect` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 * Nonbasic land hate via type/ability replacement.
 

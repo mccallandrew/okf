@@ -22,4 +22,4 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 
 * [Limited Overview](/formats/limited-overview.md)
 * [Limited Curves](/limited/limited-curves.md)
-* [17Lands](/resources/seventeen-lands.md)
+* [17Lands](/builder-resources/seventeen-lands.md)

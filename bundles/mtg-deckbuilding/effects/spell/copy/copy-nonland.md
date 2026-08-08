@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that allow you to copy permanents of any type except for land.
 
 # Deckbuilding notes
 
-* Search: `otag:copy-nonland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:copy-nonland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/copy`.
 
 # Related

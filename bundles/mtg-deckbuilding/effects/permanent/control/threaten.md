@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Gain control of a permanent until end of turn. For continuous theft see [theft-c
 
 # Deckbuilding notes
 
-* Search: `otag:threaten` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:threaten` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/control`.
 
 # Related

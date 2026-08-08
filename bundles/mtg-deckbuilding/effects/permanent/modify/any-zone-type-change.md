@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ These cards change types in every and any zone.
 
 # Deckbuilding notes
 
-* Search: `otag:any zone type change` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:any zone type change` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Whenever a creature deals combat damage to a player, it gets a +1/+1 counter.
 
 # Deckbuilding notes
 
-* Search: `otag:slith ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:slith ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Lands that sacrifice to tutor for other lands
 
 # Deckbuilding notes
 
-* Search: `otag:fetchland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:fetchland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

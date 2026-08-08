@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creature abilities that trigger upon dealing any amount of damage, no matter if 
 
 # Deckbuilding notes
 
-* Search: `otag:combat-neutral damage trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:combat-neutral damage trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

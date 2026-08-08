@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that disincentivise or make it harder for opponents to attack you
 
 # Deckbuilding notes
 
-* Search: `otag:pillowfort` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:pillowfort` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/pillowfort`.
 * Makes attacking you expensive or difficult.
 

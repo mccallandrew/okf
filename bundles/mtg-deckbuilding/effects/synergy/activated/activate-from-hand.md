@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Activated abilities that can be activated from your hand.
 
 # Deckbuilding notes
 
-* Search: `otag:activate from hand` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:activate from hand` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/activated`.
 
 # Related

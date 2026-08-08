@@ -65,7 +65,7 @@ Use category budgets as a health check even when you build primarily in packages
 * [Land Counts](/mana/land-counts.md)
 * [Pip Distribution](/mana/pip-distribution.md)
 * [Cutting Cards](/process/cutting-cards.md)
-* [Archidekt](/resources/archidekt.md)
+* [Archidekt](/builder-resources/archidekt.md)
 * [Ramp](/archetypes/ramp.md)
 * [Command Zone Deckbuilding Template](/references/command-zone-deckbuilding-template.md)
 * [Deckbuilding Checklist (MTGGoldfish)](/references/mtggoldfish-deckbuilding-checklist.md)

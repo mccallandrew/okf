@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards from Planeswalker Decks that tutor for the corresponding planeswalker.
 
 # Deckbuilding notes
 
-* Search: `otag:pwdeck-tutor` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:pwdeck-tutor` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

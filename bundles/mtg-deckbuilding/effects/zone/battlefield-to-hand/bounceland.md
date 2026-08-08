@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Non-basic lands which tap for two mana, but require you to return a land to your
 
 # Deckbuilding notes
 
-* Search: `otag:bounceland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bounceland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/battlefield-to-hand`.
 
 # Related

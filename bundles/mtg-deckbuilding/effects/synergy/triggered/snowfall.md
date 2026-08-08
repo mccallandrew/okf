@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about snow permanents entering the battlefield, not the weather 
 
 # Deckbuilding notes
 
-* Search: `otag:snowfall` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:snowfall` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

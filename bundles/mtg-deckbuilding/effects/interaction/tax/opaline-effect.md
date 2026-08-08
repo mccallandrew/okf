@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Whenever your stuff becomes the target of a spell and/or ability, you draw a car
 
 # Deckbuilding notes
 
-* Search: `otag:opaline effect` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:opaline effect` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/tax`.
 
 # Related

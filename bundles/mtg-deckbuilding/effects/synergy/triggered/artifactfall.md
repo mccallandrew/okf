@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about an artifact entering the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:artifactfall` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:artifactfall` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

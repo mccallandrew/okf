@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Spells and abilities that let you draw (a) card(s) without discarding other card
 
 # Deckbuilding notes
 
-* Search: `otag:pure draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:pure draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/draw`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Before lifelink was keyworded in Magic 2010, it was a triggered ability.
 
 # Deckbuilding notes
 
-* Search: `otag:old lifelink` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:old lifelink` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

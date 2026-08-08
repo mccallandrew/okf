@@ -22,5 +22,5 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 
 * [Commander Selection](/commander/commander-selection.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
-* [Commander Spellbook](/resources/commander-spellbook.md)
-* [Archidekt](/resources/archidekt.md)
+* [Commander Spellbook](/builder-resources/commander-spellbook.md)
+* [Archidekt](/builder-resources/archidekt.md)

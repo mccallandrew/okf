@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Abilities that you can only activate once.
 
 # Deckbuilding notes
 
-* Search: `otag:exhaust` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:exhaust` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/activated`.
 
 # Related

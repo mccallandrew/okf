@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Search for a card, and then discard a card at random (with a chance to discard t
 
 # Deckbuilding notes
 
-* Search: `otag:gamble` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gamble` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

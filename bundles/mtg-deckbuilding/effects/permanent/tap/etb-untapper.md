@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that make things enter the battlefield untapped.
 
 # Deckbuilding notes
 
-* Search: `otag:etb-untapper` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:etb-untapper` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/tap`.
 
 # Related

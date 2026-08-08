@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that use a state trigger, which is a particular and rare kind of trigger. 
 
 # Deckbuilding notes
 
-* Search: `otag:state trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:state trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

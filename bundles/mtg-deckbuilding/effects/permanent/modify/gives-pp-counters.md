@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that give +1/+1 counters. For permanents that only give +1/+1 counters to 
 
 # Deckbuilding notes
 
-* Search: `otag:gives pp counters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives pp counters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

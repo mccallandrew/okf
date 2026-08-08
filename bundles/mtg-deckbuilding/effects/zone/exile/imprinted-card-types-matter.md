@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about the card types of other cards that they've exiled with a l
 
 # Deckbuilding notes
 
-* Search: `otag:imprinted card types matter` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:imprinted card types matter` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/exile`.
 
 # Related

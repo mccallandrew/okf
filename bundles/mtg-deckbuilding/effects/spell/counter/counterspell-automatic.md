@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that will automatically try to counter spells.
 
 # Deckbuilding notes
 
-* Search: `otag:counterspell-automatic` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counterspell-automatic` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

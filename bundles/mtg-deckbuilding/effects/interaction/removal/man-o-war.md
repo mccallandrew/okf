@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures that can bounce your opponent's stuff when they enter the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:man-o'-war` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:man-o'-war` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

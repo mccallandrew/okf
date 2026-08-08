@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures with lesser power can't block these creatures.
 
 # Deckbuilding notes
 
-* Search: `otag:howlgeist ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:howlgeist ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

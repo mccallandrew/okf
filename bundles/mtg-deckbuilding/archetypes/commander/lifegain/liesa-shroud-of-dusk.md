@@ -142,7 +142,7 @@ Illustrative list from the Draftsim EDH archetypes survey—not a claim of optim
 
 * [Lifegain](/archetypes/commander/lifegain/overview.md)
 * [Commander Archetypes](/archetypes/commander/overview.md)
-* [Moxfield](/resources/moxfield.md)
-* [Archidekt](/resources/archidekt.md)
+* [Moxfield](/builder-resources/moxfield.md)
+* [Archidekt](/builder-resources/archidekt.md)
 
 [^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)

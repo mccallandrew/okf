@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ When something else leaves, put its counters on another thing
 
 # Deckbuilding notes
 
-* Search: `otag:counter preservation` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counter preservation` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Put cards from your graveyard on top of your library.
 
 # Deckbuilding notes
 
-* Search: `otag:restock-to-top` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:restock-to-top` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

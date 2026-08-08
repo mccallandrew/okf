@@ -44,6 +44,6 @@ This bundle covers strategy and construction heuristics: game plans, curves, man
 
 * [References](references/) - Cited external guides that strategy concepts derive from.
 
-# Resources
+# Builder Resources
 
-* [Resources](resources/) - External deckbuilding tools and community sites.
+* [Builder Resources](builder-resources/) - External deckbuilding tools and community sites.

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Removal for one target specifically.  See also [sweeper](sweeper) and [multi rem
 
 # Deckbuilding notes
 
-* Search: `otag:spot removal` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:spot removal` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 * Efficient single-target answers.
 

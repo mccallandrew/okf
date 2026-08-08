@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that exile other cards (or themselves) to use as reference marker for anot
 
 # Deckbuilding notes
 
-* Search: `otag:imprint` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:imprint` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/exile`.
 
 # Related

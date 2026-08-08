@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Here's my stuff, give me yours.
 
 # Deckbuilding notes
 
-* Search: `otag:exchange control` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:exchange control` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/control`.
 
 # Related

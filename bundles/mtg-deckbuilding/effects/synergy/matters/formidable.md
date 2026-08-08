@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that care if you control creatures with a total power 8 or greater.
 
 # Deckbuilding notes
 
-* Search: `otag:formidable` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:formidable` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

@@ -1,6 +1,7 @@
 # Directory Update Log
 
 ## 2026-08-07
+* **Update**: Relocated external tools catalog from `resources/` to `builder-resources/` (freeing `resources/` for a future game-resources taxonomy); retargeted absolute links and `gen_effects.py` Scryfall provenance.
 * **Update**: Moved effects generator and taxonomy to repo-root `tools/mtg-deckbuilding/` (`gen_effects.py`, `effects_taxonomy.yaml`); bundle still owns generated `effects/`.
 * **Update**: Effects taxonomy P0 — added leaves `spell/cost-bypass`, `spell/cast-from-nonhand`, `zone/cheat-into-play`, `zone/battlefield-to-library`; documented exile triad and gains/gives routing; expanded noise rules (unique-*, synergy-pw-*, creature-type cohorts, UB naming, product helpers, format-eval); regenerated Effects tree (~1.3k tags).
 * **Update**: Restructured [Effects](/effects/) onto an OKF taxonomy (`resource/`, `zone/`, `permanent/`, `spell/`, `interaction/`, `combat/`, `synergy/`, `game/`) via taxonomy YAML; filesystem paths are categorical; Scryfall parents remain Related links. Regenerated ~1.2k `Oracle Tag` concepts with `type: Effect Category` hubs.

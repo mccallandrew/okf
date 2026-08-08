@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that care about a creature entering the battlefield. Also known as Allianc
 
 # Deckbuilding notes
 
-* Search: `otag:creaturefall` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:creaturefall` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

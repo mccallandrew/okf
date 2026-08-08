@@ -24,4 +24,4 @@ Deep rules concepts live in the sibling [mtg-rules](../../mtg-rules/) bundle; th
 
 * [Constructed Overview](/formats/constructed-overview.md)
 * [Commander Overview](/formats/commander-overview.md)
-* [Scryfall](/resources/scryfall.md)
+* [Scryfall](/builder-resources/scryfall.md)

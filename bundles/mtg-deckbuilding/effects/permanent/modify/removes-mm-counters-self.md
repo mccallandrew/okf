@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Removes -1/-1 counters, but only from itself, not from other creatures.
 
 # Deckbuilding notes
 
-* Search: `otag:removes-mm-counters-self` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:removes-mm-counters-self` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Counter a spell by putting it into its owner's library.
 
 # Deckbuilding notes
 
-* Search: `otag:counterspell-tuck` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counterspell-tuck` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

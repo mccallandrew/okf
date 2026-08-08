@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ The "can't be blocked by power 2 or less" as named by WotC. See also [gives daun
 
 # Deckbuilding notes
 
-* Search: `otag:daunt` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:daunt` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

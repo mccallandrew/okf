@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Effects which allow you to bring in cards from outside the game.
 
 # Deckbuilding notes
 
-* Search: `otag:wish` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:wish` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 * Sideboard / outside-the-game tutors.
 

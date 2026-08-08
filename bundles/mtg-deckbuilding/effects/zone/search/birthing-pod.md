@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Derived from the titular card, this refers to the ability that allows to sacrifi
 
 # Deckbuilding notes
 
-* Search: `otag:birthing pod` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:birthing pod` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 * Sac-to-tutor chain; finds the next permanent by mana value.
 

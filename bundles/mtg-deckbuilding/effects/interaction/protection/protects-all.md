@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that give a form of protection to all permanents of a kind. (That may be
 
 # Deckbuilding notes
 
-* Search: `otag:protects-all` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:protects-all` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ The actual cost you pay for an effect (or for an alternate mode) will often be l
 
 # Deckbuilding notes
 
-* Search: `otag:cheaper than mv` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cheaper than mv` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cost-reduction`.
 
 # Related

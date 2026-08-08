@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Sacrifice something else to deal N damage. See also [fling](/tags/card/fling), [
 
 # Deckbuilding notes
 
-* Search: `otag:bombard` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:bombard` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

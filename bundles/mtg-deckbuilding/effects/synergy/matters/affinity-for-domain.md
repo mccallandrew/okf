@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Affinity reducers that care about the range of land types you control.
 
 # Deckbuilding notes
 
-* Search: `otag:affinity for domain` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:affinity for domain` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

@@ -38,10 +38,10 @@ EDHREC’s synergy score measures how *unique* an include is for a commander—n
 * Unusual includes can be correct when the commander changes the math (e.g. high-CMC free spells when you cast from the top of the library).[^341-build]
 * If the deck only works with three specific cards, add redundancy or tutors—or cut the fragile theme.
 * Prefer multi-role cards that advance the plan *and* fill a budget category (ramp, draw, interaction).[^draftsim-tips]
-* [EDHREC](/resources/edhrec.md) high-inclusion cards are often goodstuff; theme pages highlight synergy—use both.
+* [EDHREC](/builder-resources/edhrec.md) high-inclusion cards are often goodstuff; theme pages highlight synergy—use both.
 * Cut “win-more” synergies before cutting interaction and draw when the deck underperforms.
 * Do not equate “on-theme” with low power—combos and stax packages can be highly synergistic *and* exploitative.[^edhrec-synergy]
-* Combo density is a power-level choice—see [Commander Spellbook](/resources/commander-spellbook.md) and [brackets](/commander/power-level-and-brackets.md).
+* Combo density is a power-level choice—see [Commander Spellbook](/builder-resources/commander-spellbook.md) and [brackets](/commander/power-level-and-brackets.md).
 
 # Related
 

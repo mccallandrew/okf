@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A permanent stays tapped. Named in the Color Pie 2017 article. See also [freeze]
 
 # Deckbuilding notes
 
-* Search: `otag:lockdown` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:lockdown` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/tap`.
 
 # Related

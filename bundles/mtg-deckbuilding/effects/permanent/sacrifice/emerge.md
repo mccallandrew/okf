@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures that let you sacrifice something to cast them at a cost reduced by the
 
 # Deckbuilding notes
 
-* Search: `otag:emerge` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:emerge` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Noncreature artifacts that net increase your mana.
 
 # Deckbuilding notes
 
-* Search: `otag:mana rock` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana rock` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 * Nonland mana acceleration.
 

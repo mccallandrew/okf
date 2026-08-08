@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Derived from the titular card, this ability prevents all combat damage that woul
 
 # Deckbuilding notes
 
-* Search: `otag:dolmen ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:dolmen ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

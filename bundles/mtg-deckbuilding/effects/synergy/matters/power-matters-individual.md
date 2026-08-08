@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects which care about the power of one creature (or multiple creatures indivi
 
 # Deckbuilding notes
 
-* Search: `otag:power matters-individual` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:power matters-individual` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

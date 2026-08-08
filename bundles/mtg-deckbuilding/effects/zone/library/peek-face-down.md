@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that allow you to look at face-down creatures you don't control.
 
 # Deckbuilding notes
 
-* Search: `otag:peek-face-down` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:peek-face-down` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

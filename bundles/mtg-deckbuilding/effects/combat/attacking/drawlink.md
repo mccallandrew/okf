@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that cause combat damage dealt to draw that many cards.
 
 # Deckbuilding notes
 
-* Search: `otag:drawlink` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:drawlink` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

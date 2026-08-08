@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Providing incremental card advantage over time (usually by tapping to draw cards
 
 # Deckbuilding notes
 
-* Search: `otag:tome` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tome` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

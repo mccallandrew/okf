@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that tutor Aura cards with “enchant creature”.
 
 # Deckbuilding notes
 
-* Search: `otag:tutor-aura-creature` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tutor-aura-creature` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/search`.
 
 # Related

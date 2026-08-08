@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ An effect that filters cards at the top of the library, putting remainders into 
 
 # Deckbuilding notes
 
-* Search: `otag:mulch` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mulch` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related

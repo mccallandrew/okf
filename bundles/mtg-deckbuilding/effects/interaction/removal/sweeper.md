@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ _o\ Destroy all the things! See also [spot removal](spot-removal) and [multi rem
 
 # Deckbuilding notes
 
-* Search: `otag:sweeper` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:sweeper` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 * Mass answers for wide boards.
 

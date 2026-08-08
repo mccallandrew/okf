@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A creature gets a power boost, but will die this turn.
 
 # Deckbuilding notes
 
-* Search: `otag:berserk` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:berserk` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

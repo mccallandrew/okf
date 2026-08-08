@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Lands that have you gain life when they enter the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:gainland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gainland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

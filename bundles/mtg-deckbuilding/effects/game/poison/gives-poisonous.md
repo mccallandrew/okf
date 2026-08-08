@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Gives a creature the ability to give a set amount of poison counters to opponent
 
 # Deckbuilding notes
 
-* Search: `otag:gives poisonous` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives poisonous` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/poison`.
 
 # Related

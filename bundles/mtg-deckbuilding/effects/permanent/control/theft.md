@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that let you steal cards and resources from your opponent.
 
 # Deckbuilding notes
 
-* Search: `otag:theft` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:theft` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/control`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards whose activated abilities cost phyrexian mana
 
 # Deckbuilding notes
 
-* Search: `otag:phyrexian mana ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:phyrexian mana ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

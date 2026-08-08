@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Counterspell spells and abilities you can use again and again.
 
 # Deckbuilding notes
 
-* Search: `otag:counterspell-reusable` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counterspell-reusable` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

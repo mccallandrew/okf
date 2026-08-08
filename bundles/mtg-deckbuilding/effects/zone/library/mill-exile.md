@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile cards from the top of a library.
 
 # Deckbuilding notes
 
-* Search: `otag:mill-exile` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mill-exile` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

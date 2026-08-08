@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Exile this card from your graveyard: Do a thing. Doesn't need to be the specific
 
 # Deckbuilding notes
 
-* Search: `otag:renew` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:renew` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/activated`.
 
 # Related

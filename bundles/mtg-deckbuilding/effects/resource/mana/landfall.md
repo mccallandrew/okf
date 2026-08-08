@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards which reward you for playing lands.
 
 # Deckbuilding notes
 
-* Search: `otag:landfall` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:landfall` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 * Payoff for land drops and ramp.
 

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that can turn other noncreature artifacts into creatures. See also [animat
 
 # Deckbuilding notes
 
-* Search: `otag:animate artifact` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:animate artifact` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

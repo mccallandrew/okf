@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that "hate" on one or more mechanics in the set they were printed in.
 
 # Deckbuilding notes
 
-* Search: `otag:hate-set-mechanic` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hate-set-mechanic` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

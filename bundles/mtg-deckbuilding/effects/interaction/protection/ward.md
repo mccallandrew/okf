@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Collection tag for the Ward keyword. Should be 1:1 with kw:ward.
 
 # Deckbuilding notes
 
-* Search: `otag:ward` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:ward` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 
 # Related

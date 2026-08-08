@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Spells cost additional mana to target stuff you control.
 
 # Deckbuilding notes
 
-* Search: `otag:frost armor` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:frost armor` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Counterspells that call out enchantments specifically.
 
 # Deckbuilding notes
 
-* Search: `otag:counterspell-enchantment` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counterspell-enchantment` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

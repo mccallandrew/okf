@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Sends cards to exile from the graveyard and you can cast them for a limited time
 
 # Deckbuilding notes
 
-* Search: `otag:impulsive recursion` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:impulsive recursion` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/graveyard-to-hand`.
 
 # Related

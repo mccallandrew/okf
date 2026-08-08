@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ You and an opponent pick a creature you own, then they fight! (Or kiss, in the t
 
 # Deckbuilding notes
 
-* Search: `otag:arena effect` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:arena effect` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/removal`.
 
 # Related

@@ -33,7 +33,7 @@ sources:
 * [Deck Vision](/commander/deck-vision.md)
 * [Deckbuilding Process](/process/deckbuilding-process.md)
 * [Constructed Overview](/formats/constructed-overview.md)
-* [Official Rules and Formats](/resources/wizards-rules-hub.md)
+* [Official Rules and Formats](/builder-resources/wizards-rules-hub.md)
 * [How to Build a Commander Deck (Three for One Trading)](/references/threeforone-commander-build-guide.md)
 
 [^341-build]: How to Build a Commander Deck (Three for One Trading)

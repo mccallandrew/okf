@@ -17,7 +17,7 @@ Structured guide for building an original Commander deck from scratch (not preco
 
 * **Top-down vs bottom-up** both work; knowing which you are doing clarifies commander and card choices.
 * Start from a **rough sketch**—theme, budget, target power, and playgroup—before locking the 99.
-* Filter 2,000+ legends with [Scryfall](/resources/scryfall.md); score candidates on vision fit, “batteries included,” budget manabase, and upgrade ceiling—not flash alone.
+* Filter 2,000+ legends with [Scryfall](/builder-resources/scryfall.md); score candidates on vision fit, “batteries included,” budget manabase, and upgrade ceiling—not flash alone.
 * Build ~**eight packages of ~eight cards** (≈64 spells + commander + ~35 lands); evaluate and swap **packages**, not needles in the 99.
 * Fill packages for **commander synergy** (self-mill as draw for Kess; modal spells for double casts) rather than defaulting to format staples.
 * Weight lands with a **color-pip / nonland-card** percentage method; bias extras toward casting the commander and color-intensive payoffs.

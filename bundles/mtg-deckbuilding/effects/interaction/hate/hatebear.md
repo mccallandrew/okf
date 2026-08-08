@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures that are low-cost (2 MV or less) and have low-power/toughness with rel
 
 # Deckbuilding notes
 
-* Search: `otag:hatebear` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:hatebear` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

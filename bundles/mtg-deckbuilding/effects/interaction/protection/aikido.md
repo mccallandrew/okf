@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that turn your opponent's strength against them.
 
 # Deckbuilding notes
 
-* Search: `otag:aikido` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:aikido` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/protection`.
 * Redirects or reflects opposing force; pairs with pillowfort and politics.
 

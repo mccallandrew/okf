@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ A collection of all the keyword counters referenced by cards.
 
 # Deckbuilding notes
 
-* Search: `otag:keyword counter` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:keyword counter` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/modify`.
 
 # Related

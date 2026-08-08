@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Spells where the modal options are: X, Mirror of X
 
 # Deckbuilding notes
 
-* Search: `otag:modal inverse choices` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:modal inverse choices` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/modal`.
 
 # Related

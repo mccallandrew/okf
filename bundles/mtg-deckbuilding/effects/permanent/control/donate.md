@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that give control of a card you control to another player
 
 # Deckbuilding notes
 
-* Search: `otag:donate` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:donate` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/control`.
 
 # Related

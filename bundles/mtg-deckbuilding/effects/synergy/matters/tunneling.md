@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Creatures with power 2 or less (sometimes 3) can't be blocked. An evasion patter
 
 # Deckbuilding notes
 
-* Search: `otag:tunneling` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tunneling` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

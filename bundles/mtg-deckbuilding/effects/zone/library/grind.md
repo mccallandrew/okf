@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Mill cards until N land cards are milled.
 
 # Deckbuilding notes
 
-* Search: `otag:grind` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:grind` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/library`.
 
 # Related

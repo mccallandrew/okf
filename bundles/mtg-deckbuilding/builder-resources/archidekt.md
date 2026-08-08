@@ -21,5 +21,5 @@ generated: { by: okf-deckbuilding-agent/composer, at: 2026-07-29T13:00:00Z }
 # Related
 
 * [Category Budgets](/commander/category-budgets.md)
-* [EDHREC](/resources/edhrec.md)
-* [Moxfield](/resources/moxfield.md)
+* [EDHREC](/builder-resources/edhrec.md)
+* [Moxfield](/builder-resources/moxfield.md)

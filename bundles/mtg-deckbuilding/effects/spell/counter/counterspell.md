@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Spells that counter stuff. See child tags for variants on the behaviour; notably
 
 # Deckbuilding notes
 
-* Search: `otag:counterspell` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:counterspell` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 * Stack interaction / permission.
 

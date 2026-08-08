@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that provide power to all creatures you control. May be limited to certain
 
 # Deckbuilding notes
 
-* Search: `otag:power boost to all` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:power boost to all` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/board-presence`.
 
 # Related

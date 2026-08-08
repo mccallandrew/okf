@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Soft counterspells with mana value N that cost more than N to pay off
 
 # Deckbuilding notes
 
-* Search: `otag:mana leak series` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:mana leak series` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/counter`.
 
 # Related

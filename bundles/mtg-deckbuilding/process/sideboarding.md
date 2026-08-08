@@ -36,7 +36,7 @@ sources:
 * [Who's the Beatdown](/foundations/whos-the-beatdown.md)
 * [Threats and Answers](/foundations/threats-and-answers.md)
 * [Constructed Overview](/formats/constructed-overview.md)
-* [MTGGoldfish](/resources/mtggoldfish.md)
+* [MTGGoldfish](/builder-resources/mtggoldfish.md)
 
 [^flores-beatdown]: Who's the Beatdown?
 [^flores-threat]: Threat Theory, Answer Theory

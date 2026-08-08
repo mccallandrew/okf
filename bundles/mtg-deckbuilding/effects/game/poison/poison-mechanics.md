@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards and effects that interact with poison counters by name.
 
 # Deckbuilding notes
 
-* Search: `otag:poison mechanics` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:poison mechanics` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/poison`.
 
 # Related

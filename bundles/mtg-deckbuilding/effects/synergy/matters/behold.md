@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that have an effect if you control something or reveal from your hand a ca
 
 # Deckbuilding notes
 
-* Search: `otag:behold` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:behold` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

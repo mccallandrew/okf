@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Exile a card then return it to the battlefield (now or soon).
 
 # Deckbuilding notes
 
-* Search: `otag:flicker` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:flicker` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/blink`.
 * Blink value and ETB reuse.
 

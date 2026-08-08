@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ A stock punisher effect where you force an opponent to choose between discarding
 
 # Deckbuilding notes
 
-* Search: `otag:torment` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:torment` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/hand`.
 
 # Related

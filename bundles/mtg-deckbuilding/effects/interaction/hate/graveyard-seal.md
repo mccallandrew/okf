@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Prevent interaction with the graveyard or reanimation, or make it more difficult
 
 # Deckbuilding notes
 
-* Search: `otag:graveyard seal` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:graveyard seal` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 
 # Related

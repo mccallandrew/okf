@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that grant extra turns.
 
 # Deckbuilding notes
 
-* Search: `otag:extra turn` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:extra turn` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/turn-structure`.
 
 # Related

@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Lands that deal damage to the user upon tapping them for mana. For the original 
 
 # Deckbuilding notes
 
-* Search: `otag:painland` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:painland` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

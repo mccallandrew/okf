@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ New ways for you to win the game (or cause your opponent to lose)
 
 # Deckbuilding notes
 
-* Search: `otag:alternate win condition` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:alternate win condition` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/win-condition`.
 
 # Related

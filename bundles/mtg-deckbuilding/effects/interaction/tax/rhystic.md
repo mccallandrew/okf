@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that opponents can buy off if they pay mana.
 
 # Deckbuilding notes
 
-* Search: `otag:rhystic` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:rhystic` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/tax`.
 
 # Related

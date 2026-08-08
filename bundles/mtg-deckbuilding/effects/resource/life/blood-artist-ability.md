@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that have abilities along the lines of: "Whenever creature dies target/eac
 
 # Deckbuilding notes
 
-* Search: `otag:blood artist ability` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:blood artist ability` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/life`.
 
 # Related

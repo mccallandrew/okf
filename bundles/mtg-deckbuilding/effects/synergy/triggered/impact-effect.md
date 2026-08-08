@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that have your creatures do ETB damage or life loss.
 
 # Deckbuilding notes
 
-* Search: `otag:impact effect` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:impact effect` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

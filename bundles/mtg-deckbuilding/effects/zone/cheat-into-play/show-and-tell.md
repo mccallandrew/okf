@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Each player puts stuff from their hand onto the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:show and tell` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:show and tell` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/cheat-into-play`.
 
 # Related

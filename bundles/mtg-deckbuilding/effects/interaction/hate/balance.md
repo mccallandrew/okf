@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that attempt to equalize the board state between players by forcing play
 
 # Deckbuilding notes
 
-* Search: `otag:balance` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:balance` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `interaction/hate`.
 * Symmetrical equalization via sac/discard; stax and white-hate package.
 

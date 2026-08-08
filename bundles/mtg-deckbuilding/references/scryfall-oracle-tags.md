@@ -23,6 +23,6 @@ This bundle’s [Effects](/effects/) section indexes a **deckbuilding-relevant s
 # Related
 
 * [Effects](/effects/)
-* [Scryfall](/resources/scryfall.md)
+* [Scryfall](/builder-resources/scryfall.md)
 
 [^scryfall-otags]: Scryfall Card Tags / API documentation

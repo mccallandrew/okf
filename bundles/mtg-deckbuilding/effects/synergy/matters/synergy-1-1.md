@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that synergize with creatures that are specifically 1/1.
 
 # Deckbuilding notes
 
-* Search: `otag:synergy-1/1` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:synergy-1/1` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

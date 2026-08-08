@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that care about you controlling creatures with power 4 or greater.
 
 # Deckbuilding notes
 
-* Search: `otag:ferocious` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:ferocious` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/matters`.
 
 # Related

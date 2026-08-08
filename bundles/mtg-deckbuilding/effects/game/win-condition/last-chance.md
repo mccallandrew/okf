@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Red cards that manipulate the turn cycle, then kill you.
 
 # Deckbuilding notes
 
-* Search: `otag:last chance` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:last chance` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `game/win-condition`.
 
 # Related

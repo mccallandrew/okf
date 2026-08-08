@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Whenever this attacks, each other attacking creature gets +1/+0 until end of tur
 
 # Deckbuilding notes
 
-* Search: `otag:battle cry` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:battle cry` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

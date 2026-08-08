@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that synergize with any attacker, as long as they're attacking an opponent
 
 # Deckbuilding notes
 
-* Search: `otag:attacking opponents matters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:attacking opponents matters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/attacking`.
 
 # Related

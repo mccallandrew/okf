@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Ramp spells that net you more lands on your side of the battlefield.
 
 # Deckbuilding notes
 
-* Search: `otag:land ramp` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:land ramp` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/mana`.
 
 # Related

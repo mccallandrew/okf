@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Cards that make creatures only be blockable by no more than one creature, also k
 
 # Deckbuilding notes
 
-* Search: `otag:gives stalking` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives stalking` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `combat/evasion`.
 
 # Related

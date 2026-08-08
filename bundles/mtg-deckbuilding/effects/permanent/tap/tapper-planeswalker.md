@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Tap effects don't normally work on planeswalkers because planeswalkers don't nor
 
 # Deckbuilding notes
 
-* Search: `otag:tapper-planeswalker` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:tapper-planeswalker` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/tap`.
 
 # Related

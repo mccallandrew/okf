@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Put +1/+1 counters on all of your creatures.
 
 # Deckbuilding notes
 
-* Search: `otag:gives pp counters to all` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:gives pp counters to all` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/board-presence`.
 
 # Related

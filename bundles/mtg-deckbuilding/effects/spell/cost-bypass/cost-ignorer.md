@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that allow you to bypass mana costs. This could be by making the spell fre
 
 # Deckbuilding notes
 
-* Search: `otag:cost ignorer` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cost ignorer` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `spell/cost-bypass`.
 
 # Related

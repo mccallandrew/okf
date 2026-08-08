@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Effects that reward you for sacrificing your own permanents. Contrast [opponent 
 
 # Deckbuilding notes
 
-* Search: `otag:your sacrifice matters` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:your sacrifice matters` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `permanent/sacrifice`.
 
 # Related

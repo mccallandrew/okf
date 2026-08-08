@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards that trigger on something leaving the battlefield. See also [death trigger
 
 # Deckbuilding notes
 
-* Search: `otag:leaves battlefield trigger` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:leaves battlefield trigger` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

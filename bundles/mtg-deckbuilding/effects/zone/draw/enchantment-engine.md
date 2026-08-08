@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Whenever you cast an enchantment spell, draw a card.
 
 # Deckbuilding notes
 
-* Search: `otag:enchantment engine` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:enchantment engine` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `zone/draw`.
 
 # Related

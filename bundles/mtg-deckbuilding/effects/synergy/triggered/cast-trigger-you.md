@@ -12,7 +12,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -22,7 +22,7 @@ Whenever you cast X, do something.
 
 # Deckbuilding notes
 
-* Search: `otag:cast trigger-you` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:cast trigger-you` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `synergy/triggered`.
 
 # Related

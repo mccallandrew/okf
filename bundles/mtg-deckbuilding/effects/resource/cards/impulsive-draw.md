@@ -13,7 +13,7 @@ sources:
     resource: /references/scryfall-oracle-tags.md
     title: Scryfall Oracle Tags
   - id: scryfall
-    resource: /resources/scryfall.md
+    resource: /builder-resources/scryfall.md
     title: Scryfall
 ---
 
@@ -23,7 +23,7 @@ Cards which let you cast a card for a limited time off the top of a library (via
 
 # Deckbuilding notes
 
-* Search: `otag:impulsive draw` on [Scryfall](/resources/scryfall.md).
+* Search: `otag:impulsive draw` on [Scryfall](/builder-resources/scryfall.md).
 * Category: `resource/cards`.
 
 # Related
