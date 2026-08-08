@@ -30,5 +30,7 @@ Useful both as in-game skill and as a lens on what makes a deck feel “good” 
 * [Who's the Beatdown](/foundations/whos-the-beatdown.md)
 * [Power Level and Brackets](/commander/power-level-and-brackets.md)
 * [Card Advantage](/foundations/card-advantage.md)
+* [Threat Presence](/resources/social/threat-presence.md)
+* [Card-Driven Heat](/resources/social/card-driven-heat.md)
 
 [^edhrec-threat]: How To Be New at Threat Assessment in Commander

@@ -61,6 +61,7 @@ Example outcome: Kess, Dissident Mage over flashier shortlist options because gr
 * [Category Budgets](/commander/category-budgets.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
 * [Formats — Commander Overview](/formats/commander-overview.md)
+* [Commander Zone](/resources/privilege/commander-zone.md) - The always-available commander as a game resource.
 * [Scryfall](/builder-resources/scryfall.md)
 * [9 Critical Tips (Draftsim)](/references/draftsim-edh-deck-tips.md)
 

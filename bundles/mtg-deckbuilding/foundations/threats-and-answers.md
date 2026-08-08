@@ -42,6 +42,8 @@ sources:
 * [Removal](/effects/interaction/removal/)
 * [Counterspell](/effects/spell/counter/)
 * [Threat Assessment for New Players](/references/edhrec-threat-assessment.md)
+* [Threat Presence](/resources/social/threat-presence.md)
+* [Social](/resources/social/)
 
 [^flores-threat]: Threat Theory, Answer Theory
 [^flores-beatdown]: Who's the Beatdown?

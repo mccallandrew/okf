@@ -4,9 +4,9 @@ okf_version: "0.2"
 
 # Magic: The Gathering Deckbuilding
 
-Concept graph for Magic deck construction and strategy. Concepts are organized by idea—foundations, process, mana, effects, archetypes, and format hubs—with provenance to external guides and tools.
+Concept graph for Magic deck construction and strategy. Concepts are organized by idea—foundations, process, mana, game resources, effects, archetypes, and format hubs—with provenance to external guides and tools.
 
-This bundle covers strategy and construction heuristics: game plans, curves, mana bases, effect roles (Scryfall oracle tags), archetypes, Limited and Commander building, and sideboarding theory. It cites sources rather than reproducing full articles. Attributed illustrative **Example Deck** concepts under [Commander Archetypes](archetypes/commander/) are in scope as teaching lists. Intentionally out of scope: Comprehensive Rules legality (see the sibling [mtg-rules](../mtg-rules/) bundle), tournament policy / MTR, unattributed live-metagame netdeck dumps, and stale metagame snapshots.
+This bundle covers strategy and construction heuristics: game plans, curves, mana bases, in-game resources, effect roles (Scryfall oracle tags), archetypes, Limited and Commander building, and sideboarding theory. It cites sources rather than reproducing full articles. Attributed illustrative **Example Deck** concepts under [Commander Archetypes](archetypes/commander/) are in scope as teaching lists. Intentionally out of scope: Comprehensive Rules legality (see the sibling [mtg-rules](../mtg-rules/) bundle), tournament policy / MTR, unattributed live-metagame netdeck dumps, and stale metagame snapshots.
 
 # Foundations
 
@@ -19,6 +19,10 @@ This bundle covers strategy and construction heuristics: game plans, curves, man
 # Mana
 
 * [Mana](mana/) - Curves, land counts, pip distribution, colored sources, and fixing.
+
+# Resources
+
+* [Game Resources](resources/) - In-game currencies and assets (mana, life, cards by zone, permanents, counters, spells, privileges, progress, social); links to effect roles.
 
 # Effects
 

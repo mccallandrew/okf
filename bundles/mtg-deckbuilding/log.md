@@ -1,5 +1,16 @@
 # Directory Update Log
 
+## 2026-08-08
+* **Update**: Fully authored [Social](/resources/social/) game-resources branch (flat, Commander-first)—political capital, deals/cooperation, table favor, threat presence, archenemy, card-driven heat, and kingmaking; framed as a soft multiplayer resource with hard card levers; wired resources/commander hubs and cross-links.
+* **Update**: Fully authored [Progress](/resources/progress/) game-resources branch—damage hub with combat/noncombat satellites, poison, format-specific commander damage (dual-homed with Life), mill-to-deck, and alternate win conditions; wired indexes and log.
+* **Update**: Fully authored [Spell](/resources/spell/) game-resources branch—cast events, spell count/storm, cast payoffs, copies, instant speed, cast-from-nonhand/recast, cascade/discover, free spells, and stack denial—with links into spell and synergy effects.
+* **Update**: Fully authored [Privilege](/resources/privilege/) game-resources branch (flat)—land drop, extra turn, monarch, initiative, Ring, city’s blessing, day/night, dungeon/venture, commander zone (emphasized), emblems, and rad; dual-homed [Rad Counters](/resources/counter/rad-counters.md) under Counter with mutual links; wired commander format hubs.
+* **Update**: Fully authored [Permanent](/resources/permanent/) game-resources branch—board presence/go-wide/sacrifice/ETB/sticky concepts plus deep creature, land, artifact (equipment/vehicles), enchantment (auras/sagas), planeswalker, battle, and token leaves with links into permanent, matters, and removal effects.
+* **Update**: Fully authored [Life](/resources/life/) game-resources branch—life total, lifegain/payoffs/lifelink, payments (Phyrexian, fixing, cards), drain, fog/prevention, giving life, and commander damage—with links into life effects and related resources.
+* **Update**: Fully authored [Counter](/resources/counter/) game-resources branch—counters matter/fuel/proliferate, +1/+1 and -1/-1, loyalty, energy, experience, keyword and storage counters, devotion, and poison pointer—with links into permanent/modify and related effects.
+* **Update**: Fully authored [Card](/resources/card/) game-resources branch—cross-cutting advantage/selection/cantrips/tutoring plus deep hand, library, graveyard, and exile leaves with links into card and zone effects.
+* **Creation**: Added [Game Resources](/resources/) taxonomy (`type: Game Resource` / `Game Resource Category`) with nested mids (mana, life, card, permanent, counter, spell, privilege, progress); fully authored the [Mana](/resources/mana/) branch as the template for later passes; stubbed other branches; wired root index.
+
 ## 2026-08-07
 * **Update**: Relocated external tools catalog from `resources/` to `builder-resources/` (freeing `resources/` for a future game-resources taxonomy); retargeted absolute links and `gen_effects.py` Scryfall provenance.
 * **Update**: Moved effects generator and taxonomy to repo-root `tools/mtg-deckbuilding/` (`gen_effects.py`, `effects_taxonomy.yaml`); bundle still owns generated `effects/`.

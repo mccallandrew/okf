@@ -36,5 +36,7 @@ Unfocused theme dilution; missing interaction or mana; polarizing plans without 
 * [Commander Archetypes](/archetypes/commander/overview.md)
 * [Category Budgets](/commander/category-budgets.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
+* [Social](/resources/social/)
+* [Table Favor](/resources/social/table-favor.md)
 
 [^draftsim-edh-arch]: 27 EDH Archetypes Plus Example Decks (Draftsim)

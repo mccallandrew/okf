@@ -48,7 +48,7 @@ Authoritative rules (command zone, tax, color identity, commander damage) live i
 * Use [EDHREC](/builder-resources/edhrec.md), [Archidekt](/builder-resources/archidekt.md), and [Commander Spellbook](/builder-resources/commander-spellbook.md) as tools—not as the plan itself; brew first, then consult.[^341-build]
 * Align [brackets](/commander/power-level-and-brackets.md) with the table using the official five-bracket / Game Changers framework.[^wiz-brackets]
 * Tune ongoing lists against your [local meta](/commander/local-meta.md).[^341-build]
-* Multiplayer “good” decks generate answerable resource advantages; build and pilot with [threat assessment](/references/edhrec-threat-assessment.md) in mind.[^edhrec-threat]
+* Multiplayer “good” decks generate answerable resource advantages; build and pilot with [threat assessment](/references/edhrec-threat-assessment.md) in mind, and treat [social](/resources/social/) standing (deals, heat, archenemy pressure) as a soft resource.[^edhrec-threat]
 * Theme labels (aristocrats, wheels, stax, and so on) are covered under [Commander Archetypes](/archetypes/commander/) with illustrative example lists.[^draftsim-edh-arch]
 
 # Related
@@ -58,6 +58,8 @@ Authoritative rules (command zone, tax, color identity, commander damage) live i
 * [Commander Selection](/commander/commander-selection.md)
 * [Synergy and Goodstuff](/commander/synergy-and-goodstuff.md)
 * [Commander Archetypes](/archetypes/commander/)
+* [Commander Zone](/resources/privilege/commander-zone.md) - Command-zone access and tax as a game resource.
+* [Social](/resources/social/) - Soft multiplayer standing, deals, threat presence, and card-driven heat.
 * [Ramp](/archetypes/ramp.md)
 * [How to Build a Commander Deck (Three for One Trading)](/references/threeforone-commander-build-guide.md)
 
